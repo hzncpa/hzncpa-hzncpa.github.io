@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>家庭本地影视方案</title>
+      <link href="/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="影视服务器选择"><a href="#影视服务器选择" class="headerlink" title="影视服务器选择"></a>影视服务器选择</h1><p>主流就是emby和jellyfin,个人觉得emby的客户端更友好一点<br>虽然免费版没有硬件加速,不过够用</p><h1 id="挂削"><a href="#挂削" class="headerlink" title="挂削"></a>挂削</h1><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p>就是从设置的源网站上爬取信息,速度太快可能封号<br>所以,理论上源网站有的东西都能刮到,没有肯定不行就是了</p><h2 id="非日本动作片"><a href="#非日本动作片" class="headerlink" title="非日本动作片"></a>非日本动作片</h2><p>除了日本动作片之外,理论上有发行的话,tmm都可以挂削,包括阿尔法公司那啥</p><h2 id="日本动作"><a href="#日本动作" class="headerlink" title="日本动作"></a>日本动作</h2><p>mdcx</p><h2 id="重命名"><a href="#重命名" class="headerlink" title="重命名"></a>重命名</h2><p>尽量不要用挂削工具的重命名,容易出差错,自己tc手动重命名保险的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 影视 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 本地 </tag>
+            
+            <tag> 影视 </tag>
+            
+            <tag> emby </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>硬路由的功能列举</title>
+      <link href="/2024/01/25/%E7%A1%AC%E8%B7%AF%E7%94%B1%E7%9A%84%E5%8A%9F%E8%83%BD%E5%88%97%E4%B8%BE/"/>
+      <url>/2024/01/25/%E7%A1%AC%E8%B7%AF%E7%94%B1%E7%9A%84%E5%8A%9F%E8%83%BD%E5%88%97%E4%B8%BE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么不用软路由"><a href="#为什么不用软路由" class="headerlink" title="为什么不用软路由"></a>为什么不用软路由</h1><p>嫌麻烦,懒得买设备,也懒得拆开刷op</p><h1 id="dhcp静态ip"><a href="#dhcp静态ip" class="headerlink" title="dhcp静态ip"></a>dhcp静态ip</h1><p>固定设备的内网ip,当然只能和路由器同一网段</p><h1 id="限制设备连接外网"><a href="#限制设备连接外网" class="headerlink" title="限制设备连接外网"></a>限制设备连接外网</h1><p>可以用于电视去广告的思路上</p><h1 id="查询设备内网ip"><a href="#查询设备内网ip" class="headerlink" title="查询设备内网ip"></a>查询设备内网ip</h1><p>也可以看到hostname,不过安卓设备的不对就是了</p><h1 id="端口转发"><a href="#端口转发" class="headerlink" title="端口转发"></a>端口转发</h1><p>还有dmz,本质上就是外网请求到路由器之后,路由器根据端口转发,emby之类的还是需要用到这个的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 路由器 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 路由器 </tag>
+            
+            <tag> 硬路由 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>stream骗局一则</title>
+      <link href="/2024/01/25/stream%E9%AA%97%E5%B1%80%E4%B8%80%E5%88%99/"/>
+      <url>/2024/01/25/stream%E9%AA%97%E5%B1%80%E4%B8%80%E5%88%99/</url>
+      
+        <content type="html"><![CDATA[<h1 id="stream购买cdk骗局"><a href="#stream购买cdk骗局" class="headerlink" title="stream购买cdk骗局"></a>stream购买cdk骗局</h1><p>偶然一次在pdd购买游戏的时候碰到的</p><p>irm steam.work|iex  这个是远程下载的命令<br>简单总结一下这个命令做了什么：<br>从网上下载了一个脚本下来执行<br>脚本加了三重AES加密（你猜他为什么要加密）<br>设置Windows Defender除外Steam目录下的安全防护<br>删除steam目录下几个dll文件<br>从网上下载hid.dll覆盖到steam的本地目录<br>以及还下了其他用于破解的库<br>不用我多说了吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> stream </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 骗局 </tag>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> stream </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ipv6公网个人应用</title>
+      <link href="/2024/01/25/ipv6%E5%85%AC%E7%BD%91%E4%B8%AA%E4%BA%BA%E5%BA%94%E7%94%A8/"/>
+      <url>/2024/01/25/ipv6%E5%85%AC%E7%BD%91%E4%B8%AA%E4%BA%BA%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="开启方法"><a href="#开启方法" class="headerlink" title="开启方法"></a>开启方法</h1><ol><li>光猫桥接,关闭dhcp,这一步不算刚需,但是光猫一定要开启ipv6</li><li>路由器ppoe拨号,开启ipv6,设置好端口转发</li></ol><h1 id="流量"><a href="#流量" class="headerlink" title="流量"></a>流量</h1><p>默认开6了,所以测试的时候,可以用流量</p><h1 id="ipv6地址写法"><a href="#ipv6地址写法" class="headerlink" title="ipv6地址写法"></a>ipv6地址写法</h1><p>有时候需要加[]有时候不要,看情况</p><h1 id="ipv6-ddns"><a href="#ipv6-ddns" class="headerlink" title="ipv6 ddns"></a>ipv6 ddns</h1><p>老变,必须ddns<br>随便买一个域名,然后用ddns go工具<br>当然自己调用api或者其他工具也行,原理上很简单<br>就是定期更新ddns解析的地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ipv6 </tag>
+            
+            <tag> 网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win包管理选择</title>
+      <link href="/2024/01/25/win%E5%8C%85%E7%AE%A1%E7%90%86%E9%80%89%E6%8B%A9/"/>
+      <url>/2024/01/25/win%E5%8C%85%E7%AE%A1%E7%90%86%E9%80%89%E6%8B%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="意义"><a href="#意义" class="headerlink" title="意义"></a>意义</h1><p>我个人觉得在不用太多配置的程序中,使用包管理相对于便携式,更方便</p><h1 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h1><h2 id="三方的"><a href="#三方的" class="headerlink" title="三方的"></a>三方的</h2><p>已经放弃choco和scoop</p><h2 id="winget"><a href="#winget" class="headerlink" title="winget"></a>winget</h2><p>亲儿子的软件更多现在,使用上,大部分需要的操作也是有了</p><h3 id="附录choco简单命令"><a href="#附录choco简单命令" class="headerlink" title="附录choco简单命令"></a>附录choco简单命令</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="title class_">Set</span>-<span class="title class_">ExecutionPolicy</span> <span class="title class_">Bypass</span> -<span class="title class_">Scope</span> <span class="title class_">Process</span> -<span class="title class_">Force</span>; iex ((<span class="title class_">New</span>-<span class="title class_">Object</span> <span class="title class_">System</span>.<span class="property">Net</span>.<span class="property">WebClient</span>).<span class="title class_">DownloadString</span>(<span class="string">&#x27;https://chocolatey.org/install.ps1&#x27;</span>))</span><br><span class="line">choco help</span><br><span class="line">choco <span class="keyword">export</span></span><br><span class="line">choco feature enable -n=allowGlobalConfirmation</span><br><span class="line">choco install packages.<span class="property">config</span></span><br><span class="line">choco install python vscode nodejs git clion-ide virtualbox powertoys vivaldi.<span class="property">install</span> pycharm</span><br><span class="line"><span class="attr">https</span>:<span class="comment">//community.chocolatey.org/packagesSet-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString(&#x27;https://chocolatey.org/install.ps1&#x27;))</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 包管理 </tag>
+            
+            <tag> 软件安装 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ev搜索语法简析</title>
+      <link href="/2024/01/25/ev%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/"/>
+      <url>/2024/01/25/ev%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>网上所见ev语法教程,全是在照抄帮助,未见较为深入的搜索示例<br>并且,也没有成体系的语法书写规范<br>根据实际需求,总结了个人的一套ev搜索语法写法,抛砖引玉,供各位参考</p><h1 id="实际问题"><a href="#实际问题" class="headerlink" title="实际问题"></a>实际问题</h1><p>初学ev总觉得满腹想法,到了ev上不知道怎么写,有多个限定条件的情况下,乱写一气,啥也搜不出来,故而需要有一个合理的ev搜索语法的编写顺序<br>避免写出</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">folder</span>:<span class="attr">child</span>:<span class="attr">size</span>:&gt;1gb <span class="attr">d</span>:\电影 大陆</span><br></pre></td></tr></table></figure><p>这样乍一看把所有需要的内容全部一股脑塞进去,但是实际上什么都搜不到的写法</p><h1 id="语法格式"><a href="#语法格式" class="headerlink" title="语法格式"></a>语法格式</h1><p>经过一定时间的使用,总结的写法,算不上完整,但是应答大多数情况足矣<br>** 修饰符:非关键词限定: 限定内容 关键词限定: 关键词 路径限定 **</p><ol><li>修饰符:指的是regex等没有限定后面必须是关键词或者特殊内容的选项</li><li>非关键词限定:即对文件属性或者大小等和文件名无关的选项</li><li>关键词限定即为folder等后面必须跟关键词的选项</li><li>路径限定,一定要在关键词后面,否则会影响搜索,路径限定本质上也是一个选项只是省略了infolder:选项名罢了</li></ol><h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><p>比如某人d盘电影文件夹中,部分文件名包含例如大陆的特殊文字,但是其所在文件夹名中不包含该文字,并且要求大于1gb<br>可以使用</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> everything </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> everything </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>远程桌面方案</title>
+      <link href="/2024/01/25/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/25/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="局域网mstsc"><a href="#局域网mstsc" class="headerlink" title="局域网mstsc"></a>局域网mstsc</h1><ol><li>mic账户的也可以用</li><li>重装机后如果是pin登录的把登录选项下面的几个取消勾选,重启,关掉pin用密码登录,然后就可以mstsc中用用户名和密码登录自己用的账号了</li><li>据我测试登录第二个账户是要另一边确认的,登录主账户应该是不要确认的<br>mstsc &#x2F;v:hzn-lap &#x2F;f<br>win7在电脑属性中打开,win11直接设置搜索远程桌面</li></ol><h1 id="外网"><a href="#外网" class="headerlink" title="外网"></a>外网</h1><p>ipv6有公网ip的情况下可以做ddns域名访问远程桌面,不过我个人感觉网速不行,有点卡</p><h1 id="手机"><a href="#手机" class="headerlink" title="手机"></a>手机</h1><p>rd客户端吧</p><h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>mstsc账户登录的形式,三方工具大部分就是传屏幕,原理上的话三方工具天生要用更大的带宽,但是两边都能同时操作电脑,偶尔也是优点</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 远程桌面 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 公网 </tag>
+            
+            <tag> 远程桌面 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win中沙盒软件</title>
+      <link href="/2024/01/25/win%E4%B8%AD%E6%B2%99%E7%9B%92%E8%BD%AF%E4%BB%B6/"/>
+      <url>/2024/01/25/win%E4%B8%AD%E6%B2%99%E7%9B%92%E8%BD%AF%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="自带方案"><a href="#自带方案" class="headerlink" title="自带方案"></a>自带方案</h1><p>10以上专业版系统现有win沙盒,cp中开启功能后可以使用,类似一个会恢复的虚拟机一样<br>使用简单,没啥功能</p><h2 id="小问题"><a href="#小问题" class="headerlink" title="小问题"></a>小问题</h2><ol><li>系统语言英文,要调整一下输入法才能在部分界面打字</li><li>代理会有问题,有空排查一下为什么会影响</li><li>并不是完整的系统,ev这种工具弄进去用不了,这个详细测试之后</li></ol><h1 id="三方"><a href="#三方" class="headerlink" title="三方"></a>三方</h1><h2 id="sandboxie"><a href="#sandboxie" class="headerlink" title="sandboxie"></a>sandboxie</h2><p>免费用户的功能也够用,可以直接在某个程序的右键菜单中选择沙盒打开,相对来说灵活一点,甚至可以用来多开迅雷啥的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 沙盒 </tag>
+            
+            <tag> 安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>远程开机方案</title>
+      <link href="/2024/01/24/%E8%BF%9C%E7%A8%8B%E5%BC%80%E6%9C%BA%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/24/%E8%BF%9C%E7%A8%8B%E5%BC%80%E6%9C%BA%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="wol"><a href="#wol" class="headerlink" title="wol"></a>wol</h1><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>局域网配置简单,连接网线,开hdcp静态ip<br>bios开启对应功能,网卡设置中也要打开允许魔术包和wol唤醒</p><h2 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h2><p>安卓wol程序,根据mac和ip确定设备,发送广播数据包</p><h2 id="win"><a href="#win" class="headerlink" title="win"></a>win</h2><p>有命令行程序wol.exe</p><h2 id="公网使用wol"><a href="#公网使用wol" class="headerlink" title="公网使用wol"></a>公网使用wol</h2><p>ipv4公网ip现在基本弄不到,不提了<br>ipv6公网需要先发到网关,网关发ipv4的局域网广播,相对来说比较麻烦,放弃</p><h1 id="唤醒外设"><a href="#唤醒外设" class="headerlink" title="唤醒外设"></a>唤醒外设</h1><p>一般是开机棒或者是智能插座之类<br>原理就是连上wifi,用厂商的服务器向外设发指令,控制断电恢复,电脑的来电自启功能完成开机</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>须知无线网卡是搞不了的,或者说很麻烦,不折腾</p><h1 id="替代方案"><a href="#替代方案" class="headerlink" title="替代方案"></a>替代方案</h1><p>电脑休眠,计划任务定时唤醒,不关机也行</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 硬件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 公网 </tag>
+            
+            <tag> 远程 </tag>
+            
+            <tag> 开机 </tag>
+            
+            <tag> wol </tag>
+            
+            <tag> 硬件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>局域网共享文件方案</title>
+      <link href="/2024/01/24/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/24/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="smb"><a href="#smb" class="headerlink" title="smb"></a>smb</h1><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><ol><li>检查网络不是公用,专用可以</li><li>检查共享的设置都打开了</li><li>文件夹打开共享</li><li>网络邻居和tc里面就可以访问共享文件夹了,即使锁屏之类的也可以访问</li><li><strong>电视上搜不出来的主要是因为没有开smb1.0的支持</strong></li></ol><h1 id="ftp"><a href="#ftp" class="headerlink" title="ftp"></a>ftp</h1><h3 id="win"><a href="#win" class="headerlink" title="win"></a>win</h3><p>tc打开ftp服务,tc可以作为简单的ftp客户端</p><h3 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h3><p>自带文件管理器或者小工具打开ftp服务<br>其他设备可以根据ip访问手机ftp,hostname需要root才能查看修改<br>手机的ip如果固定可以写入电脑的hosts</p><h2 id="局域网同步"><a href="#局域网同步" class="headerlink" title="局域网同步"></a>局域网同步</h2><p>微力同步</p><h2 id="让别人传文件"><a href="#让别人传文件" class="headerlink" title="让别人传文件"></a>让别人传文件</h2><p>相较于ftp,给别人用的时候有gui相对简单一些</p><h2 id="分享文件给电视"><a href="#分享文件给电视" class="headerlink" title="分享文件给电视"></a>分享文件给电视</h2><p>大部分电视上的商店或者文件管理器带了http协议的分享,速度慢,麻烦<br>如果是安装程序的话,直接adb相对来说简单一点</p><h2 id="安卓-1"><a href="#安卓-1" class="headerlink" title="安卓"></a>安卓</h2><p>同理,安装程序的话,adb也可以<br>miui+之类的工具固然可视化看起来操作简单</p><p>smb和ftp简单情况可用</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 局域网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 共享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>本地音乐方案</title>
+      <link href="/2024/01/24/%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/24/%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么要本地听歌"><a href="#为什么要本地听歌" class="headerlink" title="为什么要本地听歌"></a>为什么要本地听歌</h1><ol><li>白嫖</li><li>灵活</li><li>装逼</li></ol><h1 id="本地音乐管理"><a href="#本地音乐管理" class="headerlink" title="本地音乐管理"></a>本地音乐管理</h1><h2 id="音乐质量"><a href="#音乐质量" class="headerlink" title="音乐质量"></a>音乐质量</h2><p>香港老歌320k就行了,没必要无损,低于320k的就有点不太行了</p><h2 id="存放"><a href="#存放" class="headerlink" title="存放"></a>存放</h2><ul><li><p>播放器媒体库自动分类,必要手动分类</p></li><li><p>也可以使用tc的批量重命名,根据元数据分类</p></li></ul><h2 id="win"><a href="#win" class="headerlink" title="win"></a>win</h2><ol><li><p>媒体库播放器: musicplayer2 </p></li><li><p>musictag抓取音乐元数据</p></li><li><p>简单试听:1by1,千千静听</p></li></ol><h4 id="放弃的"><a href="#放弃的" class="headerlink" title="放弃的"></a>放弃的</h4><p>foobar 需要使用他人的配置,没必要折腾<br>aimp,视觉效果上优于musicplayer2,但是用不上,故而选择简单精致的mp</p><h2 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h2><ol><li>播放器:salt player</li><li>备选: aplayer</li></ol><h2 id="同步音乐"><a href="#同步音乐" class="headerlink" title="同步音乐"></a>同步音乐</h2><p>方案: 微力同步<br>临时拷贝的话可以使用smb</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 播放器 </tag>
+            
+            <tag> 本地 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
