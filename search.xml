@@ -22,13 +22,13 @@
             
             <tag> 软件 </tag>
             
-            <tag> 局域网 </tag>
-            
-            <tag> 本地 </tag>
-            
             <tag> 影视 </tag>
             
             <tag> emby </tag>
+            
+            <tag> 本地 </tag>
+            
+            <tag> 局域网 </tag>
             
         </tags>
       
@@ -111,9 +111,9 @@
       
         <tags>
             
-            <tag> ipv6 </tag>
-            
             <tag> 网络 </tag>
+            
+            <tag> ipv6 </tag>
             
         </tags>
       
@@ -287,9 +287,9 @@
       
         <tags>
             
-            <tag> 网络 </tag>
-            
             <tag> 局域网 </tag>
+            
+            <tag> 网络 </tag>
             
             <tag> 共享 </tag>
             
@@ -318,11 +318,11 @@
             
             <tag> 软件 </tag>
             
+            <tag> 本地 </tag>
+            
             <tag> 音乐 </tag>
             
             <tag> 播放器 </tag>
-            
-            <tag> 本地 </tag>
             
         </tags>
       
