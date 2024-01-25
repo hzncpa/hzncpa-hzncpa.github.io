@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>tc中使用命令行</title>
+      <link href="/2024/01/25/tc%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+      <url>/2024/01/25/tc%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h1><p>很多时候不想专门打开终端,想要直接在tc或者vim中执行命令<br>虽然可以弄个脚本,直接在tc打开的位置打开终端,但是绘制窗口也要等待<br>比如直接一行命令写完<br>vim中也是,有时候就是想hexo n一下</p><h1 id="写法"><a href="#写法" class="headerlink" title="写法"></a>写法</h1><h2 id="cmd"><a href="#cmd" class="headerlink" title="cmd"></a>cmd</h2><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cmd</span> /c <span class="built_in">ping</span> qq.com &amp; <span class="built_in">pause</span></span><br></pre></td></tr></table></figure><p>省略掉cmd &#x2F;c也可以的,但是个别命令可能会有些许问题,被识别成文件,执行失败后面的pause是为了执行后保留窗口,看到结果,比如hexo d后面不加这个根本不知道结果</p><h2 id="ps"><a href="#ps" class="headerlink" title="ps"></a>ps</h2><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">powershell <span class="literal">-NoExit</span> <span class="literal">-Command</span> <span class="string">&quot;ping baidu.com;echo success&quot;</span></span><br></pre></td></tr></table></figure><p>powershell就得加上了,一样的原理,加上不退出窗口的参数<br>另外ps中是;来切分命令</p><h1 id="vim中使用"><a href="#vim中使用" class="headerlink" title="vim中使用"></a>vim中使用</h1><p>vim执行外部命令的话,前面要加上!</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">!ping qq.com &amp; pause</span><br></pre></td></tr></table></figure><p>一样的道理</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> tc </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 命令行 </tag>
+            
+            <tag> tc </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>家庭本地影视方案</title>
       <link href="/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/"/>
       <url>/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/</url>
